@@ -26,6 +26,14 @@ const HeroPage = () => {
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
                     </div>
                     <div className="carousel-inner">
+                        <div className="carousel-item active">
+                            <Link to={`shirt`}>
+                                <img src="https://images-eu.ssl-images-amazon.com/images/G/31/Symbol/2025/Jupiter/GW/Hero/Event/PC/1-2._CB799216726_.jpg" className="d-block w-100" alt="..." />
+                            </Link>
+                            <div className="carousel-caption d-none d-md-block">
+                            </div>
+                        </div>
+
                         <div className="carousel-item">
                             <Link to={`phone`}>
                                 <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/Wireless/nbshagun/Jup25/GW/D304708860_IN_Jup25_Samsung_M16PC_PB_LIVE_Lifestyle_3000x1200._CB800955375_.jpg" className="d-block w-100" alt="..." />
@@ -34,13 +42,6 @@ const HeroPage = () => {
                             </div>
                         </div>
 
-                        <div className="carousel-item active">
-                            <Link to={`shirt`}>
-                                <img src="https://images-eu.ssl-images-amazon.com/images/G/31/Symbol/2025/Jupiter/GW/Hero/Event/PC/1-2._CB799216726_.jpg" className="d-block w-100" alt="..." />
-                            </Link>
-                            <div className="carousel-caption d-none d-md-block">
-                            </div>
-                        </div>
 
                         <div className="carousel-item">
                             <Link to={`shoe`}>

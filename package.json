@@ -13,6 +13,7 @@
     "@emailjs/browser": "^4.4.1",
     "atropos": "^2.0.2",
     "axios": "^1.12.2",
+    "bootstrap": "^5.3.8",
     "dom": "^0.0.3",
     "lottie-react": "^2.4.1",
     "react": "^19.1.1",
