@@ -1,0 +1,249 @@
+.seleteImgs {
+    flex-direction: column;
+}
+
+.seleteImg {
+    background-color: white;
+    width: 42px;
+    height: 50px;
+}
+
+.seleteImgs img {
+    width: 100%;
+    height: 100%;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 7px;
+    /* padding: 4px 0px; */
+    cursor: pointer;
+    object-fit: contain;
+}
+
+@media screen and (max-width:700px) {
+    .seleteImg {
+        width: 40px;
+        height: 45px;
+    }
+}
+
+.seleteImg img:hover {
+    border: 1px solid blue;
+}
+
+.seleteImg:hover {
+    /* background-color: blue; */
+    background-image: linear-gradient(to bottom, #1c92d2 0%, #f2fcfe 51%, #1c92d2 100%);
+    transition: 0.5s;
+    background-size: 200% auto;
+}
+
+.crtImg {
+    margin: 0px auto;
+    height: 80vh;
+    /* max-width: 600px; */
+}
+
+.crtImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+
+@media screen and (min-width:700px) {
+    /* .container {
+        position: relative;
+    }*/
+
+    .imgContainer {
+        position: sticky;
+        top: 0;
+        height: fit-content;
+        /* top: 0; */
+        left: 0;
+    }
+}
+
+.ditailsContainer::-webkit-scrollbar {
+    display: none;
+}
+
+.ditailsContainer h4 {
+    line-height: 30px;
+}
+
+.ditailsContainer .ratingImg {
+    width: 120px;
+    padding: 10px 0px;
+}
+
+.priceDitails {
+    padding: 10px 0px;
+}
+
+.delivery-item {
+    flex-direction: column;
+}
+
+.delivery-item img {
+    width: 50px;
+    text-align: center;
+}
+
+.delivery-item p {
+    text-align: center;
+    font-size: 14px;
+}
+
+/* .delivery{
+    position: relative;
+} */
+
+.addToCartBySingleCart {
+    width: 100%;
+}
+
+.ditailsContainer .main-about {
+    min-width: 250px;
+    max-width: 700px;
+}
+
+.ditailsContainer .main-about div {
+    margin: 10px 0px;
+}
+
+.ditailsContainer .main-about span:nth-child(1) {
+    font-weight: 600;
+}
+
+.likeBySingleCart {
+    position: absolute;
+    top: 100px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.selectSize {
+    padding: 5px 10px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+
+.selectSize:active {
+    background-color: rgb(82, 82, 241);
+    color: white;
+}
+
+.borderDot {
+    border: 2px dotted #360033;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* .selSize {
+    background-color: rgb(82, 82, 241);
+    color: white;
+    cursor: pointer;
+}
+
+
+.selSize {
+    background-image: linear-gradient(to right, #5C258D 0%, #4389A2 51%, #5C258D 100%)
+}
+
+.selSize {
+   
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    display: block;
+} */
+
+
+.selSize {
+    /* background-image: linear-gradient(to right, #360033 0%, #0b8793 51%, #360033 100%) */
+    /* background-image: linear-gradient(to right, #614385 0%, #516395 51%, #614385 100%); */
+    background-image: linear-gradient(to right, #000000 0%, #53346D 51%, #000000 100%);
+    /* background-image: linear-gradient(to right, #870000 0%, #190A05 51%, #870000 100%); */
+}
+
+.selSize {
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    display: block;
+}
+
+.selSize:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.selSize:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.selecteBroder {
+    border: 3px solid rgb(82, 82, 241);
+    border-radius: 5px;
+}
+
+.unSelecteBroder {
+    border: 3px solid white;
+
+}
+
+.selectColorsContainer {
+    max-width: 100px;
+    min-width: 100px;
+    max-height: 100px;
+    overflow: hidden;
+    /* min-width: 90px; */
+}
+
+.selectColorsContainer img {
+    object-fit: contain;
+    width: 100%;
+    min-height: 100%;
+}
+
+.inchesTable tr {
+    border: 1px solid gray;
+    /* background-color: red; */
+}
+
+.inchesTable tr td {
+    padding: 0px 10px;
+}
+
+.inchesTable tr td:nth-child(1) {
+    font-weight: 700;
+}
+
+
+
+@media screen and (max-width:500px) {
+    .selectColorsContainer {
+        max-width: 50px;
+        min-width: 50px;
+        min-height: 50px;
+        margin: 0px auto;
+    }
+}
+
+
+.selectColors img {
+    width: 100%;
+    height: 100%;
+}

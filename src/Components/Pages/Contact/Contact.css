@@ -1,0 +1,196 @@
+.MainContactContainer {
+    min-height: 100vh;
+    max-height: 170vh;
+    margin: auto 0px;
+    position: relative;
+    /* background: #360033;
+    background: -webkit-linear-gradient(to right, #0b8793, #360033);
+    background: linear-gradient(to right, #0b8793, #360033); */
+
+}
+
+.contactTextHeader {
+    /* background: linear-gradient(to right, #FBD3E9 0%, #BB377D 51%, #FBD3E9 100%); */
+    background: linear-gradient(to right, #ffff 40%, #53346D 51%, #ffff 100%);
+    /* background: linear-gradient(to right, #EB5757 0%, #000000  51%, #EB5757  100%); */
+    background-size: 200% auto;
+    /* same trick as button */
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    transition: 0.7s;
+    display: inline-block;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.contactTextHeader:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.contactForm {
+    text-transform: capitalize;
+
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contactForm div {
+    margin: 0px auto;
+    width: 100%;
+
+}
+
+
+.contactForm div div {
+    margin-bottom: 20px;
+}
+
+
+@media screen and (max-width:500px) {
+    .contactForm div {
+        /* min-width: 90%; */
+        margin: 0px auto;
+    }
+}
+
+.contactForm label {
+    display: block;
+    padding-bottom: 5px;
+
+
+    /* background: linear-gradient(to right, #FBD3E9 0%, #BB377D 51%, #FBD3E9 100%); */
+    background: linear-gradient(to right, #ffff 40%, #53346D 51%, #ffff 100%);
+    /* background: linear-gradient(to right, #EB5757 0%, #000000  51%, #EB5757  100%); */
+    background-size: 200% auto;
+    /* same trick as button */
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    transition: 0.7s;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.contactForm label:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+
+}
+
+
+.contactForm input,
+.contactForm textarea {
+    width: 100%;
+    padding: 5px 10px;
+
+    border-radius: 7px;
+    /* outline: none; */
+}
+
+
+
+.contactForm input:nth-child(1) {
+    font-weight: 600;
+}
+
+
+.contactForm textarea {
+    width: 100%;
+    max-height: 300px;
+    min-height: 100px;
+}
+
+.contactForm button {
+    margin-top: 20px;
+    background-color: blue;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    /* background-image: linear-gradient(to right, #C04848 0%, #480048 51%, #C04848 100%); */
+    /* background-image: linear-gradient(to right, #283048 0%, #859398 51%, #283048 100%); */
+    /* background-image: linear-gradient(to right, #DAE2F8 0%, #D6A4A4 51%, #DAE2F8 100%); */
+    /* background-image: linear-gradient(to right, #1D2B64 0%, #F8CDDA 51%, #1D2B64 100%); */
+    background-image: linear-gradient(to right, #000000 0%, #53346D 51%, #000000 100%);
+    border: 1px solid white;
+    width: 90%;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    /* box-shadow: 0 0 20px #eee; */
+    /* border-radius: 10px; */
+    display: block;
+
+}
+
+
+
+
+.contactForm button:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.contactBg {
+    color: black;
+    background-image: url("../../../assets/ContactBG/contactBG-15.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 90px;
+    height: 85%;
+    width: 100%;
+    /* z-index: 10; */
+}
+
+.bg--black {
+    background-color: rgba(0, 0, 0, 0.900);
+    position: absolute;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+    /* z-index: 10; */
+}
+
+
+
+.contactBackGround {
+    /* background-image: url("../assets/ContactBG/contactBG-15.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-color: rgba(0, 0, 0, 0.123);
+    position: relative;
+    top: 0px;
+    z-index: 0;
+ */
+    position: relative;
+    z-index: 20;
+    color: white;
+    height: 100%;
+}
+
+.gradient-text {
+    background: linear-gradient(to right, #ffefba, #ffffff);
+    text-shadow: 5px 5px 5px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* for Firefox */
+    color: transparent;
+}

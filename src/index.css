@@ -1,0 +1,547 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lekton:ital,wght@0,400;0,700;1,400&family=Margarine&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Satisfy&display=swap');
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+@media screen and (max-width:550px){
+  .fontSize7{
+    font-size: 13px;
+  }
+}
+
+.my-scroll-container {
+  overflow-x: scroll;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.my-scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+.logoColor {
+  /* 
+  background: linear-gradient(90deg, rgb(238, 196, 118), rgb(0, 0, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text; */
+  color: transparent;
+}
+
+.logoImg {
+  width: 50px;
+}
+
+@media screen and (max-width:500px) {
+  .logoImg {
+    width: 30px;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  /* color: transparent; */
+}
+
+a:hover {
+  color: inherit;
+}
+
+.linkTag {
+  background-image: linear-gradient(to right, #1A2980 0%, #26D0CE 51%, #1A2980 100%);
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  display: block;
+}
+
+li {
+  list-style: none;
+}
+
+/* .active {
+  color: blue;
+} */
+
+/* .active {
+  background-image: linear-gradient(to right, #1A2980 0%, #26D0CE 51%, #1A2980 100%);
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  display: block;
+}
+
+.active:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+} */
+
+.active {
+  background-image: linear-gradient(to right, #1c92d2 0%, #f2fcfe 51%, #1c92d2 100%);
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  display: block;
+  font-weight: 700;
+}
+
+.active:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+
+.NavLinkHover:hover {
+  background-image: linear-gradient(to right, #1c92d2 0%, #f2fcfe 51%, #1c92d2 100%);
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  display: block;
+}
+
+
+.linkColor {
+  color: black;
+}
+
+.linkColor:hover {
+  color: blue;
+
+}
+
+.nav-bar {
+  background-color: black;
+}
+
+.nav-bar-main {
+  z-index: 100;
+  /* position: static; */
+  position: fixed;
+  top: 0px;
+  /* width: 98vw; */
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.catergoryNavBar {
+  background-color: rgba(0, 0, 0, 0.954);
+  cursor: pointer;
+}
+
+.searchInput {
+  outline: none;
+  /* max-width: 220px; */
+  min-width: 95%;
+  max-width: 100%;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: transparent;
+}
+
+.searchBar {
+  flex: 1;
+}
+
+@media screen and (max-width:500px) {
+  .searchBar {
+    width: 100px;
+  }
+
+  .searchInput {
+    min-width: 75%;
+  }
+}
+
+.searchBar form {
+  background-color: white;
+  border-radius: 5px;
+  /* max-width: 280px; */
+  /* min-width: 100px; */
+  min-width: 100px;
+}
+
+@media screen and (min-width:770px) {}
+
+.searchBar button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.menu {
+  /* flex: 1; */
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navBarItem {
+  border: 1px solid black;
+  /* border: 1px solid red; */
+  padding: 10px 5px;
+  cursor: pointer;
+}
+
+.navBarItem:hover {
+  border: 1px solid white;
+}
+
+.GadgetCart {
+  flex: 1;
+}
+
+.paddingTop {
+  padding-top: 90px !important;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.catergoryNavBar {
+  position: relative !important;
+}
+
+.categoryIcone {
+  z-index: 1000;
+  /* float: right; */
+  position: absolute;
+  right: 10px;
+}
+
+.categoryList {
+  position: absolute;
+  top: 33px;
+  right: 0px;
+  z-index: 100;
+  background-color: rgba(0, 0, 0, 0.899);
+  border-radius: 2px;
+  border-bottom-left-radius: 5px;
+}
+
+.categoryList li {
+  padding: 6px 25px;
+  border-bottom: 1px solid gray;
+  list-style: none;
+}
+
+
+.categoryList li img {
+  width: 38px;
+  height: 35px;
+  object-fit: contain;
+}
+
+.searchUl {
+  width: 100%;
+  z-index: 10;
+  max-height: 300px;
+  overflow-y: scroll;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.searchUl::-webkit-scrollbar {
+  display: none;
+}
+
+.searchUl li {
+  /* width: 100%; */
+  background-color: whitesmoke;
+  color: black;
+}
+
+.searchUl li:hover {
+  color: blue;
+}
+
+@media screen and (max-width:700px) {
+  .navBarText {
+    display: none !important;
+  }
+
+  .logo h3 {
+    display: none !important;
+  }
+
+  .nav-bar-main {
+    width: 100%;
+  }
+
+  .paddingTop {
+    padding-top: 82px !important;
+  }
+
+  .searchUl {
+    width: 150%;
+    max-height: 200px;
+    font-size: 10px;
+  }
+}
+
+
+.icone {
+  width: 20px;
+  height: 20px;
+}
+
+.footerIcone {
+  width: 70px;
+  height: 70px;
+}
+
+.footerLogoIcone {
+  width: 41px;
+  height: 41px;
+
+}
+
+.imgWidthAndHeight {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.broderBottom {
+  border-bottom: 1px solid gainsboro;
+}
+
+
+.productBg {
+  background: #2980B9;
+  background: -webkit-linear-gradient(to bottom, #FFFFFF, #6DD5FA, #2980B9);
+  background: linear-gradient(to bottom, #FFFFFF, #6DD5FA, #2980B9);
+}
+
+.producrtBgPink {
+  background: #2980B9;
+  background: -webkit-linear-gradient(to bottom, #FFFFFF, #6DD5FA, #2980B9);
+  background: linear-gradient(to bottom, #FFFFFF, #6DD5FA, #2980B9);
+}
+
+/* notificationConatiner */
+body {
+  position: relative;
+}
+
+.notificationConatiner {
+  position: fixed;
+  /* top: 0px;
+  left: 50%;
+  transform: translateX(-50%); */
+  right: 20px;
+  bottom: 20px;
+  z-index: 1000;
+}
+
+.notification {
+  cursor: pointer;
+  min-width: 300px;
+  /* height: 500px; */
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0px;
+  animation: slider 0.5s 1;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width:550px) {
+  .notification {
+    min-width: 200px;
+  }
+}
+
+@keyframes slider {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.notification h3 {
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.ditailsTextColor {
+  background: linear-gradient(to right, #000000 0%, #42377e 51%, #000000 100%);
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  transition: 0.7s;
+  cursor: pointer;
+  font-size: 22px;
+}
+
+@media screen and (max-width:550px) {
+  .ditailsTextColor {
+    font-size: 13px;
+  }
+}
+
+.ditailsTextColor:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+
+}
+
+
+.homePageHeadText {
+  background: linear-gradient(to right, #000000 0%, #eec476 51%, #000000 100%);
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.homePageHeadText:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+
+}
+
+
+.LogoText {
+  /* background: linear-gradient(to right, #000046 0%, #1CB5E0 51%, #000046 100%); */
+  /* background: linear-gradient(to right, #d87320 0%, #1CB5E0 51%, #d87320 100%); */
+  background: linear-gradient(to right, #1CB5E0 0%, #FFFFFF 41%, #1CB5E0 100%);
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  transition: 0.7s;
+  cursor: pointer;
+}
+
+.LogoText:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+
+}
+
+
+.navBarTextLink {
+  /* background: linear-gradient(to right, #000046 0%, #1CB5E0 51%, #000046 100%); */
+  /* background: linear-gradient(to right, #d87320 0%, #1CB5E0 51%, #d87320 100%); */
+  background: linear-gradient(to right, #1CB5E0 0%, #FFFFFF 0%, #1CB5E0 100%);
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  transition: 0.7s;
+  cursor: pointer;
+}
+
+.navBarTextLink:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+
+}
+
+
+.titleText {
+  background: linear-gradient(to right, #16BFFD 0%, #CB3066 51%, #16BFFD 100%);
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  transition: 0.7s;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.titleText:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+
+}
+
+
+
+
+.redBtnColor {
+  /* background-image: linear-gradient(to right, #e52d27 0%, #b31217 51%, #e52d27 100%); */
+  background-image: linear-gradient(to right, #e52d27 0%, #061700 51%, #e52d27 100%);
+  /* text-transform: uppercase; */
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  display: block;
+  border-radius: 10px;
+
+}
+
+.redBtnColor:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+
+
+.greenBtnColor {
+  background-image: linear-gradient(to right, #52c234 0%, #061700 51%, #52c234 100%);
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+  display: block;
+}
+
+.greenBtnColor:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.purpleBtnColor {
+    background-image: linear-gradient(to right, #000000 0%, #53346D 51%, #000000 100%);
+    width: 90%;
+    /* text-transform: uppercase; */
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+}
+
+.purpleBtnColor:hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}

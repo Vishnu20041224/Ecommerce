@@ -1,0 +1,1189 @@
+[
+    {
+        "productNo": 1234567890401,
+        "catergory": "Headphone",
+        "name": "boAt Headphone",
+        "Brand": "boAt ",
+        "ditails": "boAt Rockerz 113 (2025 Launch), 40 Hrs Playback, Dual Pair, Fast Charge, Enx Tech, Low Latency, Magnetic Buds, Bluetooth Neckband, Wireless with Mic in Ear Earphones",
+        "rating": 4.1,
+        "price": 799,
+        "mrp": 2499,
+        "discount": 68,
+        "Style": "Neckband",
+        "EarPlacement": "In Ear",
+        "FormFactor": "In Ear",
+        "NoiseControl": "Environmental Noise Cancellation",
+        "about": [
+            "40 Hrs Playback & ASAP Charge: Sing along to the latest beats with 40 hours of massive playtime. Resume your watchlist with 10 hours of playtime boost after 10 minutes of charging thanks to ASAP charge",
+            "Dual Pairing: Keep your earphones connected to two devices simultaneously and toggle seamlessly between them with dual pairing.",
+            "ENx Technology: Enjoy noise-free calls on the go with ENx tech in these earphones. Call your contacts while waiting in the airport lounge or travelling and converse without pesky background noise",
+            "BEAST Mode: Race lag-free in the virtual world with up to 60 ms low latency of BEAST mode. Rockerz 113 syncs audio and visuals for realistic gaming making it a must-have.",
+            "Magnetic Buds, IPX5 Sweat Resistant, boAt Signature Sound, Integrated Controls"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/41YX5pqCzNL._SY300_SX300_QL70_FMwebp_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/41YX5pqCzNL._SY300_SX300_QL70_FMwebp_.jpg",
+                "https://m.media-amazon.com/images/I/710ympryN7L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61ognfx+r2L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71avYcFxF+L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71pUXGF9X3L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71HXPRCIANL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71wMpXaI4wL._SY450_.jpg"
+            ],
+            "Gray": [
+                "https://m.media-amazon.com/images/I/61FSJbnM3rL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71AXSIJ6E2L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61cQPeF3vLL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71TuTj2RUsL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71TP1V2izlL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71kySTv7c3L._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890402,
+        "catergory": "Headphone",
+        "name": "boAt Headphone",
+        "Brand": "boAt ",
+        "ditails": "boAt Rockerz 480 W/RGB LEDs, 6 Light Modes, 40Mm Drivers, Beast Mode, 60Hrs Playback, Enx Tech, BT V5.3, Adaptive Fit & Easy Access Controls, Bluetooth Over Ear Headphones",
+        "rating": 4.1,
+        "price": 1599,
+        "mrp": 3799,
+        "discount": 58,
+        "Style": "On Ear Headphones",
+        "EarPlacement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "32 Ohm",
+        "about": [
+            "Blazing RGB LEDs with 6 Modes: Amp your audio corner with the striking design of the boAt Rockerz 480 Bluetooth Headphones. The blazing RGB LEDs on these headphones are integrated with 6 modes that can be modified as per your preference.",
+            "BEAST Mode: Play solo or multiplayer games by activating BEAST mode. Its 40 ms low latency eliminates pesky lag for a realistic feel.",
+            "60 hours of Playback: Charge less and enjoy more with the massive playtime of these headphones. Tune into your playlist or podcasts uninterrupted without charging these headphones for up to 60 hours.",
+            "40 mm Drivers: No matter what you're listening to, the bass-heavy boAt Signature Sound from the 40 mm drivers lends an impressive soundstage that brings your music to life.",
+            "ENx Technology: Answer calls from a busy workspace, public transport, or café, with ENx technology that removes noise ensuring that you can speak and hear without looking for a quiet spot.",
+            "Dual Pairing: Take calls on your phone and resume the movie on your laptop without disconnecting and reconnecting these headphones each time. Dual pairing in these headphones makes your everyday hustle easier.",
+            "Bluetooth v5.3 Compatibility: Catch up on the latest series while commuting or call your buddies with wireless comfort courtesy of Bluetooth v5.3."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/711l4y8aNlL._SY450_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/711l4y8aNlL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71Ls5i3fB3L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71NB3MwlbML._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71TIEZXXxkL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71iwxemAZBL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/7134-I3RbBL._SY450_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/61cIHzCDl6L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71Ls5i3fB3L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71bpCD5dbVL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71TIEZXXxkL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/716VWXIZ3CL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/715Y6zPgK+L._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890403,
+        "catergory": "Headphone",
+        "name": "boAt Headphone",
+        "Brand": "boAt ",
+        "ditails": "boAt 2025 Launch Airdopes 219, 4Mics ENx Tech, 40 Hrs Battery, Best in Segment for Calling, Free Music Streaming,13mm Drivers, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic",
+        "rating": 4.1,
+        "price": 1099,
+        "mrp": 3099,
+        "discount": 72,
+        "Style": "TWS",
+        "FormFactor": "In Ear",
+        "about": [
+            "Quad Mics with ENx Technology: ENx-powered quad mics in these earbuds eliminate noise for clear calls regardless of your location. Converse in cafés and on public transport hands-free with your Airdopes.",
+            "Powerful 13mm Drivers: Tune into thumping bass-rich boAt Signature Sound from the dual 13 mm drivers. Experience every beat to the fullest",
+            "Up to 40 hours of Playback: Groove uninterrupted with the boAt Airdopes 219 TWS Earbuds. Listen to songs and podcasts while unwinding for up to 40 hours.",
+            "BEAST Mode: Immerse in the virtual world with the 45 ms low-latency gaming BEAST mode. Enjoy lag-free gaming while playing solo or with your squad.",
+            "ASAP Charge: Charge your buds for 10 minutes and keep binge-watching for 120 minutes. Thanks to ASAP Charge, you can resume your favorite web series and tick it off your watchlist.",
+            "IPX4 Water Resistance: No matter where you are, keep enjoying audio content as your Airdopes feature IPX4 resistance to prevent sweat and water splashes from damaging them",
+            "Bluetooth v5.4: Advanced Bluetooth v5.4 in Airdopes 219 makes it easy to just pop in your buds at home or on the go without the hassle of tangled wires."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/61oPWuyuT2L._SY450_.jpg",
+        "mainColor": "Green",
+        "imgs": [],
+        "collectionsImgs": {
+            "Green": [
+                "https://m.media-amazon.com/images/I/61oPWuyuT2L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71RCNyqj+FL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/718i+Cf0psL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/619NI30MY4L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71OnGZAUZGL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/614PkMoxdhL._SY450_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/71FOccCOQmL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71RCNyqj+FL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71ANKW3L6AL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/617Cls1C4+L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71QrsLCmvwL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61Rzuiy63VL._SY450_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/61SoMfH-4vL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71rbwGHa3RL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71MO4A33x2L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/617kJo-r0-L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61aEjswsfhL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61uwNEQeWJL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/618coRAQ0kL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890404,
+        "catergory": "Headphone",
+        "name": "boAt Headphone",
+        "Brand": "boAt ",
+        "ditails": "boAt 2025 Launch Airdopes 219, 4Mics ENx Tech, 40 Hrs Battery, Best in Segment for Calling, Free Music Streaming,13mm Drivers, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic",
+        "rating": 4.6,
+        "price": 1299,
+        "mrp": 4499,
+        "discount": 71,
+        "Style": "TWS",
+        "FormFactor": "In Ear",
+        "about": [
+            "4 Mics with AI-ENx Technology: Enjoy noise-free calling with AI-ENx technology in the boAt Airdopes Prime 412 TWS Earbuds. Integrated with 4 mics, these earbuds make communication easy no matter where you are.",
+            "Multipoint Connectivity: Hustle like a pro as you switch between phone calls and laptop meetings with multipoint connectivity. Stay connected to two devices at the same time with your Airdopes and breeze through your routine.",
+            "boAt Hearables App Support: boAt Hearables app compatibility brings novelty functions like battery and connectivity status, feature control toggle, etc., at your fingertips for next-level listening with your Airdopes.",
+            "Massive 50 hours Playback: Tune into non-stop audio fun with the massive playtime. Groove, stream, and game for up to 50 hours with your unwavering audio companion!",
+            "ASAP Charge: ASAP Charge your buds for merely 10 minutes and kickstart entertainment with a massive 240 minutes of playtime.",
+            "Google Fast Pair: Forget manual pairing woes with Google Fast Pair’s rapid one-tap connectivity. Additionally, you can personalize the pairing name for your Airdopes or even locate misplaced buds.",
+            "11 mm Drivers with boAt Signature Sound: Escape the chaos and jam to thumping boAt Signature Sound from the dual 11 mm drivers in these earbuds."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/61TkeAa2Z4L._SY450_.jpg",
+        "mainColor": "Green",
+        "imgs": [],
+        "collectionsImgs": {
+            "White": [
+                "https://m.media-amazon.com/images/I/61TkeAa2Z4L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/717+j3WFhNL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71RCNyqj+FL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81cbENQgH-L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71iEfplViAL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81fSlpzjyzL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71vh3sNg8PL._SY450_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/61N2RlHl0DL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/717+j3WFhNL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71RCNyqj+FL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81U4v3uCgqL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71o8mEcSWsL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81UGPU3VBVL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/710Fipny4mL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890405,
+        "catergory": "Headphone",
+        "name": "Noise On Ear Headphone",
+        "Brand": "Noise",
+        "ditails": "Noise Two Wireless On Ear Headphones with 50 Hours Playtime, Low Latency(up to 40ms), 4 Play Modes, Dual Pairing, BT v5.3",
+        "rating": 3.6,
+        "price": 1699,
+        "mrp": 4999,
+        "discount": 66,
+        "Style": "On Ear Headphones",
+        "EarPlacement": "Over Ear",
+        "Form Factor": "on Ear",
+        "Impedance": "32 mm Jack",
+        "about": [
+            "50-hour playtime: The entertainment never stops with up to 50 hours of playtime.",
+            "Low latency (up to 40ms): Eliminate all audio lag while gaming and streaming.",
+            "Tru BassTM: Hear every beat with powerful, bass driven audio.",
+            "40mm driver: Experience rich and captivating audio while listening to your favourite shows, music and podcasts.",
+            "Dual pairing: Shuffle between work and play at your convenience.",
+            "4 play modes: Play music the way you want to with 4 play modes – Bluetooth, AUX, SD card and FM",
+            "IPX5 water resistance: Stay protected from splashes, dust and moisture at all times.",
+            "Bluetooth 5.3: Get consistent connectivity with Bluetooth 5.3."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/711l4y8aNlL._SY450_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Blue": [
+                "https://m.media-amazon.com/images/I/517lSvEVVsL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/6123McrMDhL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61e9pkNmWuL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71qT2vBIVwL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71QyfyboQ8L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/618pYgA-e+L._SY450_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/51lD6jgEytL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/6123McrMDhL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61ercNooifL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71jovB04v-L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71QyfyboQ8L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61oQF+KZX1L._SY450_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/512sO2L0k6L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/6123McrMDhL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/619TKUep4XL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71qT2vBIVwL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71QyfyboQ8L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61Z9+A5TmGL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890406,
+        "catergory": "Headphone",
+        "name": "Noise Neckband",
+        "Brand": "Noise",
+        "ditails": "Noise Airwave Bluetooth in Ear Neckband with 50H of Playtime, 3 EQ Modes, ENC for Calling, Low Latency(Upto 50ms), 10mm Driver, BT v5.3(Olive Green)",
+        "rating": 3.8,
+        "price": 999,
+        "mrp": 2499,
+        "discount": 60,
+        "Style": "Ear Neckband",
+        "EarPlacement": "In Ear",
+        "Form Factor": "In Ear",
+        "NoiseControl": "Environmental Noise Cancellation",
+        "about": [
+            "Up to 50 hour playtime:- For playlists that you never want to hit pause on, without needing to worry about running out of charge.",
+            "3 EQ Modes (Tru bass, Tru balance, Tru rock ):- You deserve to listen to audio the way you like best. We make that happen for you with Tru Bass, Tru Balance and Tru Rock.",
+            "10mm Driver:- Dive into the world of balanced audio quality.",
+            "ENC for superior calling:- Experience a clear calling experience when you talk on the phone with Environmental Noise Cancellation.",
+            "Low Latency (up to 50ms):- Gaming, talking or listening to music - it’s a lag-free zone with up to 50ms of low latency.",
+            "Sporty elegant design:- Designed for flexibility and comfort, making your audio experience look as grea"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51wvgLOuK4L._SY450_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Green": [
+                "https://m.media-amazon.com/images/I/51wvgLOuK4L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61U723YdkpL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/6173uSo8pYL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61eSIUYdSoL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61xO7JMO3RL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/619dWYX-tWL._SY450_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/51bOIKn+B5L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61U723YdkpL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61BnHV9NuoL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61yTH1skaOL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61SZNPhiaRL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61HyHgBKSgL._SY450_.jpg"
+            ],
+            "Midnight-Blue": [
+                "https://m.media-amazon.com/images/I/51X1umd7GPL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61U723YdkpL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/617R-DQvmzL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61GbkcU6y0L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61yHWhd1Z4L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61cKFKeI3RL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890407,
+        "catergory": "Headphone",
+        "name": "Noise TWS",
+        "Brand": "Noise",
+        "ditails": "Noise Master Buds, Sound by Bose in-Ear Bluetooth Earbuds, Up to 49dB Adaptive ANC, LHDC 5.0, Immersive Spatial Audio, 44H Playtime with 6 mic ENC, Dual Pairing, IPX5 Ear Buds TWS",
+        "rating": 3.9,
+        "price": 7999,
+        "mrp": 7999,
+        "discount": 0,
+        "Style": "TWS",
+        "EarPlacement": "In Ear",
+        "Form Factor": "True Wireless",
+        "NoiseControl": "Active Noise Cancellation",
+        "about": [
+            "Tuned by Experts: With Sound by Bose, enjoy meticulously tuned audio.",
+            "Adaptive ANC (up to 49dB): Tested to provide the best sound isolation, so you can transition between the quietest to loudest environments with consistent cancellation.",
+            "LHDC: Playback just got more accurate with LHDC that supports bitrates up to 900kbits/s.",
+            "Design & Fit: A metal disc on the case inspired by vinyl sound, a 2PM light bar that marries form with function and ergonomic buds that fit snugly in your ears.",
+            "Dynamic Drivers: Get balanced, distortion-free sound with 12.4mm PEEK + Titanium drivers."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/710T1sZiT7L._SY450_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/710T1sZiT7L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61OHRd-ntsL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71EchrxMXBL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/619dm3D8wWL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61iti7HlxSL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61FFXIRyMZL._SY450_.jpg"
+            ],
+            "Silver": [
+                "https://m.media-amazon.com/images/I/719izpvrXXL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61OHRd-ntsL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71Ezk9+BK0L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/619dm3D8wWL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61iti7HlxSL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61FFXIRyMZL._SY450_.jpg"
+            ],
+            "Titanium": [
+                "https://m.media-amazon.com/images/I/71TWuDLRqBL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71F-z9hizVL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61pmN8k5BkL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71FCNTy9CvL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61X5BSNgXNL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71NwBZgehJL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890408,
+        "catergory": "Headphone",
+        "name": "Sony Over Ear Headphone",
+        "Brand": "Sony",
+        "ditails": "Sony WH-CH720N, Wireless Over-Ear Active Noise Cancellation Headphones with Mic, up to 50 Hours Playtime, Multi-Point Connection, App Support, AUX & Voice Assistant Support for Mobile Phones",
+        "rating": 4.3,
+        "price": 8840,
+        "mrp": 14990,
+        "discount": 41,
+        "Style": "Over Ear Headphone",
+        "EarPlacement": "Open Ear",
+        "Form Factor": "Open Ear",
+        "Impedance": "325 Ohm",
+        "NoiseControl": "Active Noise Cancellation",
+        "about": [
+            "Sony’s lightest Wireless Noise-cancelling headband ever",
+            "Up to 50-hour battery life with quick charging (3 min charge for up to 1 hour of playback)",
+            "Multi-Point Connection helps to pair with two Bluetooth devices at the same time",
+            "Take noise cancelling to the next level with Sony’s Integrated Processor V1,so you can fully immerse yourself in the music",
+            "Super comfortable and lightweight design ( 192 Grams )",
+            "Adjustable Ambient Sound mode and Adaptive Sound control features tailors sound to suit the environment around you",
+            "High sound quality and well-balanced sound tuning",
+            "Crystal clear hands-free calling and voice assistant with Precise Voice Pickup technology"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/41tp0JPPlmL._SY450_.jpg",
+        "mainColor": "White",
+        "imgs": [],
+        "collectionsImgs": {
+            "White": [
+                "https://m.media-amazon.com/images/I/41tp0JPPlmL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/514msrrSJLL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81L8FJQd5nL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/91hx2gnY0qL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81Y1Mr0iVWL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81ZItrs+cLL._SY450_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/51rpbVmi9XL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61My1sTKUWL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81L8FJQd5nL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/91hx2gnY0qL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81Y1Mr0iVWL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81ZItrs+cLL._SY450_.jpg"
+            ],
+            "Pink": [
+                "https://m.media-amazon.com/images/I/61b2pq0bSJL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81CKeMD1NnL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81RdajNhhvL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81XYcILOclL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81wdjO-3NsL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81gfa8MGguL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890409,
+        "catergory": "Headphone",
+        "name": "Sony Neckband",
+        "Brand": "Sony",
+        "ditails": "Sony WI-C100 Wireless Headphones with Customizable Equalizer for Deep Bass & 25 Hrs Battery, DSEE-Upscale, Splash Proof, 360RA, Fast Pair, in Ear Bluetooth Headset with Mic for Phone Calls",
+        "rating": 3.7,
+        "price": 1699,
+        "mrp": 2799,
+        "discount": 39,
+        "Style": "Neckband",
+        "EarPlacement": "In Ear",
+        "Form Factor": "In Ear",
+        "NoiseControl": "Sound Isolation",
+        "about": [
+            "Equalizer Support : Your sound, just how you like it, Customizable Equalizer for Deep Bass",
+            "Application Support : Headphones Connect app for Android & iOS, Splash-proof and sweat-proof with an IPX4 rating",
+            "Battery Life : Long battery life of up to 25 hours, 10-minute quick charge will give you up to 60 minutes of playback",
+            "Sound Quality : DSEE restores high frequency sounds lost in compression",
+            "Built-In Mic : Easier, clearer hands-free calling",
+            "Operations : Easy to operation with buttons to play and pause, skip tracks and adjust the volume",
+            "Secure Fit : A well-balanced shape around the neck ensures a stable fit"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51r5oHmkC+L._SY450_.jpg",
+        "mainColor": "Blue",
+        "imgs": [],
+        "collectionsImgs": {
+            "Blue": [
+                "https://m.media-amazon.com/images/I/51r5oHmkC+L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51SFC-UGbFL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51FF9uI1keL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61X9midyqbL._SY450_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/41d2o4QXPfL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/7189T+FErvL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61TDM8Uwg1L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/512-6esOZRL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51CqaZaH-gL._SY450_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/41RTvQGbTNL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/7189T+FErvL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61TDM8Uwg1L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/512-6esOZRL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51hUx1htXxL._SL1000_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890410,
+        "catergory": "Headphone",
+        "name": "Sony Over Ear Headphones",
+        "Brand": "Sony",
+        "ditails": "Sony WH-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Over Ear Headphones with Mic for Clear Calling,Battery Life 30 Hours-Mid Night Blue",
+        "rating": 4.4,
+        "price": 29990,
+        "mrp": 34999,
+        "discount": 14,
+        "Style": "Over Ear Headphone",
+        "EarPlacement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "NoiseControl": "Sound Isolation",
+        "about": [
+            "Industry Leading noise cancellation-two processors control 8 microphones for unprecedented noise cancellation. With Auto NC Optimizer, noise cancelling is automatically optimized based on your wearing conditions and environment",
+            "Industry-leading call quality with our Precise Voice Pickup Technology uses four beamforming microphones and an AI-based noise reduction algorithm",
+            "Magnificent Sound, engineered to perfection with the new Integrated Processor V1",
+            "Crystal clear hands-free calling with 4 beamforming microphones, precise voice pickup, and advanced audio signal processing.",
+            "Up to 40-hour battery life for continuous music playtime (With Noise Cancellation ON, get up to 30 Hours of playtime, and With Noise Cancellation off get up to 40 Hours.) All-day power and quick charging (3 min charge for 3 hours of playback).",
+            "Ultra-comfortable, lightweight design with soft fit leather",
+            "Multipoint connection allows you to quickly switch between devices"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51KGPDttQhL._SY450_.jpg",
+        "mainColor": "Blue",
+        "imgs": [],
+        "collectionsImgs": {
+            "Blue": [
+                "https://m.media-amazon.com/images/I/51KGPDttQhL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/713H4Zm6HFL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71X6szvAB5L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71T7oVBFHSL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61bqn6R4uqL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61CHplYzrfL._SY450_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/51aXvjzcukL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51gaT35OeML._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81+4fB1ehJL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61VUD9Zh9sL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51pFYV7FHdL._SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/71GMFf-4cwL._SL1500_.jpg"
+            ],
+            "Pink": [
+                "https://m.media-amazon.com/images/I/61C9nWyExyL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71fzfw8rNlL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/817CrteZ2lL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81RRIgqF0lL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81yguSDAhYL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81EUGvhIzJL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890411,
+        "catergory": "Headphone",
+        "name": "JBL Over Ear Headphones",
+        "Brand": "JBL",
+        "ditails": "JBL Tune 770NC Wireless Over Ear ANC Headphones with Mic, Upto 70 Hrs Playtime, Speedcharge, Google Fast Pair, Dual Pairing, BT 5.3 LE Audio, Customize on Headphones",
+        "rating": 4.0,
+        "price": 5999,
+        "mrp": 9999,
+        "discount": 40,
+        "Style": "Over Ear Headphone",
+        "EarPlacement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "NoiseControl": "Adaptive Noise Cancellation",
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/51cJH+eKR6L._SY450_.jpg",
+        "mainColor": "Purple",
+        "imgs": [],
+        "collectionsImgs": {
+            "Purple": [
+                "https://m.media-amazon.com/images/I/51cJH+eKR6L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71hAPNe5QcL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81nP0qWChfL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/41-WEOMt06L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71Q1B5AOdPL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71rH4u3DRIL._SY450_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/71uBLsZVFhL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71CtnhoJp1L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81f9mSg7XRL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71fKsDxs80L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71csgGdQ5yL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/91LOfCeepkL._SY450_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/51YpIWxHiUL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71XwUJyaqeL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81H-1h1aDRL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71VsE-YQC5L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71TqFoCikmL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81rH91vFQaL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890412,
+        "catergory": "Headphone",
+        "name": "JBL TWS",
+        "Brand": "JBL",
+        "ditails": "JBL Wave Flex 2 in-Ear Wireless Earbuds (TWS) with Mic,4 mics for Crisp & Clear Calls,40 Hours Battery,Ip54 Water&Dust Resistance,Multi-Point Connection",
+        "rating": 3.5,
+        "price": 5999,
+        "mrp": 3299,
+        "discount": 45,
+        "Style": "TWS",
+        "EarPlacement": "In Ear",
+        "Form Factor": "In Ear",
+        "NoiseControl": "Adaptive Noise Cancellation",
+        "about": [
+            "Smart Ambient technology JBL Wave Flex 2 earbuds come with Smart Ambient technology. Ambient Aware adjusts how much of the outside world you want to hear, while TalkThru lets you talk with others—all without taking your earbuds out.",
+            "4 mics for crisp, clear calls Two mics on each earbud pick up and clearly transmit your voice while canceling out ambient noise. So you can make clear, crisp calls even when you’re walking through a busy park on a breezy day",
+            "Water and dust resistant Your JBL Wave Flex 2 are IP54 water and dust resistant, so you can use them in rainy or windy conditions. Even the case is IPX2 resistant, so don’t worry about bringing it along with you.",
+            "40 total hours of playback time, plus speed charging Enjoy 10 hours of playtime, plus another three full charges (30 hours) in the charging case. Need to recharge even faster? 10 minutes on a USB type-C charging cable will give you another three hours of playtime",
+            "Multi-point connection Pair your JBL Wave Flex 2 earbuds with two Bluetooth devices at the same time and then switch effortlessly from one to the other. So if you’re watching a video on your tablet, you won’t miss a call on your mobile phone."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/419sxyo0FWL._SY450_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/419sxyo0FWL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51lEFARZyeL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/713aOIWozcL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71u-Sbxh-4L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61jbuTmDTeL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51xaCrmzdNL._SY450_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/51MuWlzgtdL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51lEFARZyeL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/713aOIWozcL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71u-Sbxh-4L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61jbuTmDTeL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51XvKf-ofTL._SY450_.jpg"
+            ],
+            "Pink": [
+                "https://m.media-amazon.com/images/I/41g7GP4fKjL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/713aOIWozcL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71u-Sbxh-4L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61jbuTmDTeL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51ufFbNAzKL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51vtDrxwKuL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890413,
+        "catergory": "Headphone",
+        "name": "JBL TWS",
+        "Brand": "JBL",
+        "ditails": "JBL Vibe Beam in-Ear Wireless Earbuds (TWS) with Mic,App for Customized Extra Bass Eq,32 Hours Battery&Quick Charge,Ip54 Water&Dust Resistance,Ambient Aware&Talk-Thru,Google Fastpair",
+        "rating": 3.6,
+        "price": 2499,
+        "mrp": 5999,
+        "discount": 58,
+        "Style": "TWS",
+        "EarPlacement": "In Ear",
+        "Form Factor": "In Ear",
+        "NoiseControl": "Adaptive Noise Cancellation",
+        "about": [
+            "JBL Deep Bass Sound : Get the most from your mixes with high-quality audio from secure, reliable earbuds with 8mm drivers featuring JBL Deep Bass Sound",
+            "Up to 32 (8h + 24h) total hours of battery life with speed charging : With 8 hours of battery life in the earbuds and 24 in the case, the JBL Vibe Beam provide all-day audio. And when you need more power, you can speed charge an extra two hours in just 10 minutes",
+            "Hands-free calls with VoiceAware : When you’re making hands-free stereo calls on the go, VoiceAware lets you balance how much of your own voice you hear while talking with others",
+            "Water and dust resistant : From the beach to the bike trail, the IP54-certified earbuds and IPX2 charging case are water and dust resistant for all-day experiences.",
+            "JBL Headphones App compatible : Listen all day—your way. Dial in your preferred sound with the dedicated app and transform the JBL Vibe Beam into your ideal audio companion"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51aJ4DQrynL._SY450_.jpg",
+        "mainColor": "Beige",
+        "imgs": [],
+        "collectionsImgs": {
+            "Beige": [
+                "https://m.media-amazon.com/images/I/51aJ4DQrynL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51hrTx-nCdL._SX450_.jpg",
+                "https://m.media-amazon.com/images/I/41Uz33KoIgL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61NrGDvek3L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71CKNxx-CSL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61Ffr9gfL4L._SY450_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/31aKwFisW1L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61o7YJf2-iL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81LILoh2mwL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81dgww9LhRL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/813aIOFXC6L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81YvfwmUmgL._SY450_.jpg"
+            ],
+            "Blue": [
+                "http://m.media-amazon.com/images/I/51oZM6anNaL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51hrTx-nCdL._SX450_.jpg",
+                "https://m.media-amazon.com/images/I/41NifrG3bcL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61V52s8z8eL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71QBbCa6mHL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/618QCoicmSL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890414,
+        "catergory": "Headphone",
+        "name": "ZEBRONICS Over Ear Headphone",
+        "Brand": "ZEBRONICS",
+        "ditails": "ZEBRONICS Thunder NEO, Wireless Over Ear Headphone, Upto 60 Hours Backup, Gaming Mode, Dual Pairing, Rapid Charge, BT v5.4, AUX, 3 EQ Modes, ENC for Callling, Voice Assistant, Deep Bass",
+        "rating": 4.6,
+        "price": 999,
+        "mrp": 1899,
+        "discount": 47,
+        "Style": "Over Ear Headphone",
+        "Form Factor": "Over Ear",
+        "about": [
+            "DYNAMIC BASS: Experience rich, immersive sound powered by high-performance 40mm drivers with deep bass.",
+            "3 EQ MODES: Offers 3 EQ modes - Sound Monster for bass boost, Vocal Enhancer for clearer vocals, and Equalizer for balanced audio.",
+            "GAMING MODE: Stay focused on your game with headphones designed to deliver a smooth, low-latency gaming experience.",
+            "CONNECTIVITY: With BT v5.4 for seamless wireless use and AUX support for wired playback, it ensures versatile performance.",
+            "COMFORTABILITY: Designed for maximum comfort, these lightweight, ergonomic headphones feature soft ear cushions for extended wear.",
+            "DUAL PAIRING: Enables simultaneous connectivity between 2 devices and easy device switching for a hassle-free listening experience.",
+            "VOICE ASSISTANT: Offers convenient control of music playback, calls, and alarms."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/61mMKGa2hHL._SY450_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/61mMKGa2hHL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71DV5psab4L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/618AlIRkUgL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81-18Ye6tgL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/818j9gUlTFL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71dSR78xJDL._SY450_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/61ztP8vEJGL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/718qaaWzonL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61H7AxMBzXL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81femDOp5iL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81ngWiLgW0L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71s6eLKdzxL._SY450_.jpg"
+            ],
+            "Silver": [
+                "https://m.media-amazon.com/images/I/61SLVq9BSlL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71fTmIl5t8L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/6142vcR4uWL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/818axOtlJqL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/81NKJP7Ao1L._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890415,
+        "catergory": "Headphone",
+        "name": "ZEBRONICS Neckband",
+        "Brand": "ZEBRONICS",
+        "ditails": "ZEBRONICS Zeb Evolve Wireless Bluetooth in Ear Neckband Earphone, Rapid Charge, Dual Pairing, Magnetic earpiece,Voice Assistant with Mic",
+        "rating": 3.6,
+        "price": 499,
+        "mrp": 1499,
+        "discount": 67,
+        "Style": "Neckband",
+        "Form Factor": "In Ear",
+        "Impedance": "16 Ohm",
+        "EarPlacement": "In Ear",
+        "about": [
+            "In Ear Wireless Neckband Earphone",
+            "Rapid Charge Function: 2 hours usage in 10 minutes charge",
+            "Up to 17H Playback at 50% Volume",
+            "Seamless Connectivity with BT5.0",
+            "Magnetic Earpiece, Charging time - 1h, Talk time - 12H, Standby time - 40H"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/712JrdCd9rL._SX466_.jpg",
+        "mainColor": "Blue",
+        "imgs": [],
+        "collectionsImgs": {
+            "Blue": [
+                "https://m.media-amazon.com/images/I/712JrdCd9rL._SX466_.jpg",
+                "https://m.media-amazon.com/images/I/61EkqeksKzL._SX450_.jpg",
+                "https://m.media-amazon.com/images/I/61MUVWC44tL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71+nGx5K5SL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/713kx7q+C0L._SY450_.jpg"
+            ],
+            "Gray": [
+                "https://m.media-amazon.com/images/I/718YKkENapL._SX466_.jpg",
+                "https://m.media-amazon.com/images/I/61EkqeksKzL._SX450_.jpg",
+                "https://m.media-amazon.com/images/I/61MUVWC44tL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71+nGx5K5SL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/713kx7q+C0L._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890416,
+        "catergory": "Headphone",
+        "name": "OnePlus tws",
+        "Brand": "OnePlus",
+        "ditails": "OnePlus Nord Buds 3 Truly Wireless Bluetooth in Ear Earbuds with Up to 32Db Active Noise Cancellation,10Mins for 11Hours Fast Charging with Up to 43H Music Playbac",
+        "rating": 4.2,
+        "price": 2299,
+        "mrp": 2799,
+        "discount": 18,
+        "Style": "TWS",
+        "Form Factor": "In Ear",
+        "Impedance": "8 Ohm",
+        "EarPlacement": "In Ear",
+        "about": [
+            "[Enhanced Sound Experience]: The buds comes with 12.4 mm Titanized Diaphragm Drivers with which you can enjoy music with deeper bass and pure clear treble, immersing in the audiophile-grade sound experience. It has 3D audio specifically for OnePlus smartphone users.",
+            "[32dB Active Nosie Cancellation]: - With up to 32dB Active Noise Cancellation one can maximize the audio enjoyment of music, allowing an immersive listening experience virtually",
+            "[BassWave️ 2.0]: Users can enjoy more powerful bass with our new BassWave algorithm dynamically enhances your sound for a balanced listening experience with deeper bass and crisp, clear vocals to keep you dancing to the beat.",
+            "[TÜV Rheinland Battery Health certification]: OnePlus Nord Buds 3 is the world's first TWS to receive TÜV Rheinland Battery Health certification. It guarantees at least 80% of the battery capacity left after 1,000 charging cycles.",
+            "[Dual Connection & Google Fast Pair]: The buds can simultaneously connect to two devices such as Andriod/iOS/Windows smartphone, tablets or computers allowing for quick and seamless device switching. Google Fast Pair simplifies the pairing process, save time and enhance user convenience.",
+            "[Battery Life & Fast Charging]:It has 10mins of Fast Charging that gives 11 hours of Playback time with total music playback up to 43 hours with ANC Off.",
+            "[Bluetooth & Latency]: New generation of Bluetooth 5.4 enables faster transmission of high-quality audio, providing a better audio experience. It also has 94ms latency for better gaming"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51CfKYzmFsL._SX569_.jpg",
+        "mainColor": "Gray",
+        "imgs": [],
+        "collectionsImgs": {
+            "Gray": [
+                "https://m.media-amazon.com/images/I/51CfKYzmFsL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/519DDBTBbzL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/51J4rgqEA8L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/51Q8LjhusJL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/51pJRX5yXpL.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/61Lm9GFu8ML._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61+sUWWxptL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61z0tL-IHLL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61eqnvoP0OL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61cjA0inOCL._SX569_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890417,
+        "catergory": "Headphone",
+        "name": "OnePlus tws",
+        "Brand": "OnePlus",
+        "ditails": "OnePlus Buds 3 in Ear TWS Bluetooth Earbuds with Upto 49dB Smart Adaptive Noise Cancellation,Hi-Res Sound Quality,Sliding Volume Control,10mins for 7Hours Fast Charging with Upto 44Hrs Playback",
+        "rating": 4.3,
+        "price": 4599,
+        "mrp": 6499,
+        "discount": 29,
+        "Style": "TWS",
+        "Form Factor": "In Ear",
+        "Impedance": "0.29 Ohm",
+        "EarPlacement": "In Ear",
+        "about": [
+            "[Best-in-class Sound Quality]: 10.4mm+6mm dynamic dual driver, LHDC5.0 Bluetooth CODEC and high resolution certification makes the product best in its sound quality with deeper bass, delicate treble and clear vocals; [Sliding Volume Control]: Slide on the surface of touch area of buds to adjust the volume.Sliding up increases the volume, while sliding down decreases the volume",
+            "[49dB Adaptive Nosie Cancellation]: Advanced noise-cancelling technology,coupled with a high-performance chip,elevates the depth of noise cancellation upto 49dB.This reduces noise and blocks out chaos and allows users to enjoy music immersively",
+            "[Dual Connection]:It can simulatenously connect to 2 devices such as Andriod/iOS/Windows smartphone, tablets or computers allowing for quick and seamless device switching",
+            "[Battery Life]:It has 10mins of Fast Charging that give 7 hours of Playback time with total music playback upto 44 hours with ANC Off||[IP55 rating]: With IP55 Dust and water resistance there is no fear of sweating or rain"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51h7CQTRJ1L._SY450_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/51h7CQTRJ1L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/518JdWAXvJL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51wXDR0u4uL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/41EpveO7uQL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61XHerhMdaL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51AAuZ-WOIL._SY450_.jpg"
+            ],
+            "Green": [
+                "https://m.media-amazon.com/images/I/71wlgC7Q5ZL._SX466_.jpg",
+                "https://m.media-amazon.com/images/I/518JdWAXvJL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51wXDR0u4uL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/41EpveO7uQL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61XHerhMdaL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51AAuZ-WOIL._SY450_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890418,
+        "catergory": "Headphone",
+        "name": "Apple AirPods 4",
+        "Brand": "Apple",
+        "ditails": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active Noise Cancellation, Adaptive Audio, Transparency Mode, Personalised Spatial Audio, USB-C Charging Case, Wireless Charging, H2 Chip",
+        "rating": 4,
+        "price": 16990,
+        "mrp": 17900,
+        "discount": 5,
+        "Style": "TWS",
+        "Form Factor": "In Ear",
+        "about": [
+            "ULTIMATE OVER-EAR LISTENING EXPERIENCE — Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences.",
+            "FIVE FRESH COLOURS — AirPods Max come in five fresh colours: Midnight, Starlight, Blue, Purple and Orange. A colour-matched Smart Case is also included.",
+            "FOCUS ON WHAT’S PLAYING — Pro-level Active Noise Cancellation removes up to 2x more background noise, so you can immerse yourself in music.",
+            "HEAR THE WORLD AROUND YOU — Transparency mode lets you comfortably hear and interact with the world around you.",
+            "PERSONALISED SPATIAL AUDIO — With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to selected songs, shows and movies in Dolby Atmos.",
+            "PERSONALISED SPATIAL AUDIO — Personalised Spatial Audio with dynamic head tracking places sound all around you, creating a theatre-like listening experience for music, TV shows, movies, games and more.",
+            "REDESIGNED CASE — The Charging Case is the smallest in the industry with wireless charging. Charge with an Apple Watch Charger, USB-C Charge Cable or Qi-certified charger."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/61oCISLE+PL._SX466_.jpg",
+        "mainColor": "White",
+        "imgs": [],
+        "collectionsImgs": {
+            "White": [
+                "https://m.media-amazon.com/images/I/61oCISLE+PL._SX466_.jpg",
+                "https://m.media-amazon.com/images/I/51pOjb8cWPL._SX466_.jpg",
+                "https://m.media-amazon.com/images/I/61fGEeV+KLL._SX466_.jpg",
+                "https://m.media-amazon.com/images/I/71suTmi4soL._SX466_.jpg",
+                "https://m.media-amazon.com/images/I/61rbjqSgxpL._SX466_.jpg",
+                "https://m.media-amazon.com/images/I/61VVKSFncsL._SX466_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890419,
+        "catergory": "Headphone",
+        "name": "Apple Over Ear Headphone",
+        "Brand": "Apple",
+        "ditails": "Apple AirPods Max Wireless Over-Ear Headphones, Pro-Level Active Noise Cancellation, Transparency Mode, Personalised Spatial Audio, USB-C Charging, Bluetooth Headphones for iPhone",
+        "rating": 4,
+        "price": 59900,
+        "mrp": 59900,
+        "discount": 0,
+        "Style": "Over Ear Headphone",
+        "Form Factor": "In Ear",
+        "about": [
+            "ULTIMATE OVER-EAR LISTENING EXPERIENCE — Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences",
+            "FIVE FRESH COLOURS — AirPods Max come in five fresh colours: Midnight, Starlight, Blue, Purple and Orange. A colour-matched Smart Case is also included.",
+            "FOCUS ON WHAT’S PLAYING — Pro-level Active Noise Cancellation removes up to 2x more background noise, so you can immerse yourself in music.",
+            "HEAR THE WORLD AROUND YOU — Transparency mode lets you comfortably hear and interact with the world around you.",
+            "PERSONALISED SPATIAL AUDIO — With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to selected songs, shows and movies in Dolby Atmos.",
+            "ACOUSTIC-FIRST DESIGN — Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional over-ear fit that perfectly seals in sound.",
+            "MAGICAL EXPERIENCE — Pair AirPods Max by simply placing them near your device and tapping Connect on your screen.* AirPods Max pause audio when you take them off. And Automatic Switching makes listening between your iPhone, iPad and Mac completely effortless"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/71n0hFVzhjL._SX569_.jpg",
+        "mainColor": "White",
+        "imgs": [],
+        "collectionsImgs": {
+            "Purple": [
+                "https://m.media-amazon.com/images/I/71n0hFVzhjL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71j3WqqU7WL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71GhDorcP3L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71hPmZhk4XL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71K00ult7mL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61Bb9hBUEDL._SX569_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/71QFjliR-ML._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71j3WqqU7WL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71GhDorcP3L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71hPmZhk4XL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71K00ult7mL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61Bb9hBUEDL._SX569_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890420,
+        "catergory": "Headphone",
+        "name": "realme TWS",
+        "Brand": "realme",
+        "ditails": "realme Earbuds Air 7 True Wireless,12.4mm Dynamic Bass Drivers,52Hrs Playtime,52dB Hybrid ANC,6 Mic ENC,45ms Low Latency,360° Spatial Audio,Hi-Res LHDC,IP55 Dust & Water Resistant,BT v5.4",
+        "rating": 4,
+        "price": 3299,
+        "mrp": 4999,
+        "discount": 34,
+        "Style": "TWS",
+        "Form Factor": "True Wireless",
+        "Impedance": "32 Ohm",
+        "EarPlacement": "In Ear",
+        "about": [
+            "52dB Smart Active Noise Cancellation (ANC) | Hi-Res Certified with LHDC 5.0",
+            "12.4mm Deep Bass Driver | Dynamic Bass Boost",
+            "360° spatial Sound",
+            "Up to 52 hrs of playback",
+            "IP55 Dust & Water Resistant"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/61zlpp2ouyL._SX679_.jpg",
+        "mainColor": "Green",
+        "imgs": [],
+        "collectionsImgs": {
+            "Green": [
+                "https://m.media-amazon.com/images/I/61zlpp2ouyL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61mDO-D2NYL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71ciSm90pjL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/51kFA3lqamL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/618+Tg03zKL._SX679_.jpg"
+            ],
+            "Purple": [
+                "https://m.media-amazon.com/images/I/61u9uoKEFhL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61WP1BlEmuL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61r-j8MXgzL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71DKx8AhqbL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/51EIaDMNZLL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61nHarzY9pL._SX679_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/61ieBxHtuKL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81A-KAVU5OL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71Zp3k052mL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71DpzNlOUUL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/51HbucDWUIL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/51yUgjv2jQL._SX679_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890421,
+        "catergory": "Headphone",
+        "name": "realme Over Ear Headphone",
+        "Brand": "realme",
+        "ditails": "realme TechLife Studio H1 Over The Ear Over Ear Wireless Headphone with 70Hours Playtime 360° Spatial Audio, 40mm Drivers, 80ms Superlow Latency, 43 dB Adaptive ANC",
+        "rating": 3.9,
+        "price": 3999,
+        "mrp": 7999,
+        "discount": 50,
+        "Style": "Over Ear Headphone",
+        "Form Factor": "Over Ear",
+        "Impedance": "32 Ohm",
+        "EarPlacement": "Over Ear",
+        "about": [
+            "40mm Mega Dynamic Bass Driver with Hi-Res Certification & LDAC Audio Codec",
+            "43dB Hybrid Noise Cancellation with 3 level Smart adaptive noise cancellation",
+            "360° Spatial Audio Effect & 80ms ultra-low latency",
+            "70H long Play Time with Fast Charging",
+            "Bluetooth 5.4, Dual-device connection with Google Fast Pair"
+        ],
+        "mainImg": "",
+        "mainColor": "Red",
+        "imgs": [],
+        "collectionsImgs": {
+            "Red": [
+                "https://m.media-amazon.com/images/I/711E5HU0YxL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71F3Y8RHcqL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71cfSxBAUvL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71H4o5dI6jL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/7156HofVDqL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/614I8Gk8eTL._SX569_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/715wH-KhfYL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71ci0UsSmoL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71Ir6FvKsmL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71ZPvthVmsL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/712qU55tj3L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71WT8Gt+BNL._SX569_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/61qEeLw+KZL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/716GN8TWMhL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61HJCaLMIGL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/711gxPtG1hL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/617M1m4vLpL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61LwsqWSZnL._SX569_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890422,
+        "catergory": "Headphone",
+        "name": "realme TWS",
+        "Brand": "realme",
+        "ditails": "realme Buds T310 True Wireless in-Ear Earbuds with 46dB Hybrid ANC, 360° Spatial Audio, 12.4mm Dynamic Bass Driver, Upto 40Hrs Battery and Fast Charging",
+        "rating": 4.1,
+        "price": 2199,
+        "mrp": 3999,
+        "discount": 45,
+        "Style": "TWS",
+        "Form Factor": "True Wireless",
+        "Impedance": "32 Ohm",
+        "EarPlacement": "In Ear",
+        "about": [
+            "360° Spatial Audio Effect | 12.4mm Dynamic Bass Driver",
+            "46dB Hybrid Noise Cancellation | 45ms Ultra Low Latency 12.4mm Dynamic Bass Driver 40 Hours Total Playback| Fast Charge :10 Min of Charge =5Hrs Play Back IP55 Water & Dust Resistant Bluetooth V5.4 Dual Device Connectivity",
+            "40 Hours Total Playback| Fast Charge :10 Min of Charge =5Hrs Play Back",
+            "IP55 Water & Dust Resistant",
+            "Bluetooth V5.4"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51JZ+6M4vyL._SX569_.jpg",
+        "mainColor": "Purple",
+        "imgs": [],
+        "collectionsImgs": {
+            "Purple": [
+                "https://m.media-amazon.com/images/I/51JZ+6M4vyL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/51stCKRxkrL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/418Bqtn8R9L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/41yebOTxf8L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61zJMcrqWJL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/516doRHGKGL._SX569_.jpg"
+            ],
+            "Green": [
+                "https://m.media-amazon.com/images/I/61GsqRhLWKL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71yAVqH6KtL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61vQ3xOaSNL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71292fjbvIL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71Or-509tnL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61iQ6TFjiOL._SX569_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/61gmciQoOKL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/615P2jQ95IL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/51b1oALUxuL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/51USa4e2cuL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71dIpAGkGDL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61u0hxIPKDL._SX569_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890423,
+        "catergory": "Headphone",
+        "name": "Redmi TWS",
+        "Brand": "Redmi",
+        "ditails": "Redmi Buds 5 Truly Wireless Bluetooth in Ear Ear Buds (TWS) with Upto 46Db Hybrid Noise Cancellation,Dual-Mic Ai Call Enhancement,10Mins for 4Hours Fast Charging with Upto 38Hrs Playback",
+        "rating": 4,
+        "price": 1799,
+        "mrp": 4999,
+        "discount": 65,
+        "Style": "TWS",
+        "Form Factor": "In Ear",
+        "Impedance": "32 Ohm",
+        "EarPlacement": "In Ear",
+        "NoiseControl": "Active Noise Cancellation",
+        "about": [
+            "[46dB Hybrid Active Noise Cancellation]: The Redmi Buds 5 comes with Hybrid Active Noise Cancellation which means experience undisturbed audio with up to 46dB noise cancellation that blocks out 99.5% of background noise"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51Af03TfaUL._SX569_.jpg",
+        "mainColor": "White",
+        "imgs": [],
+        "collectionsImgs": {
+            "White": [
+                "https://m.media-amazon.com/images/I/51Af03TfaUL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71yn7VVWZiL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71zjRnJ69lL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71RDtemFEvL._SX569_.jpg",
+                "http://m.media-amazon.com/images/I/71jWXt4TXEL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/814lo+hDaFL._SX569_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/61oh4tmrL1L._SX569_.jpg",
+                "http://m.media-amazon.com/images/I/71OyPQNA9sL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71r3tCUFdlL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71L-aXjxlZL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61BybCNDNzL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61JhxQwsz8L._SX569_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/61PgbNpEkdL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71yn7VVWZiL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71zjRnJ69lL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71RDtemFEvL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71jWXt4TXEL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/814lo+hDaFL._SX569_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890423,
+        "catergory": "Headphone",
+        "name": "Samsung TWS",
+        "Brand": "Samsung",
+        "ditails": "Samsung Galaxy Buds3 Pro| Silver| Wireless Earbuds| Powered by Galaxy AI| IP57| Active Noise Cancellation| Adaptive Noise Control| 37hrs Battery| 360 Surround Sound| Pinch Controls| Galaxy Ecosystem",
+        "rating": 3.9,
+        "price": 18999,
+        "mrp": 24999,
+        "discount": 24,
+        "Style": "TWS",
+        "Form Factor": "In Ear",
+        "Impedance": "29.97 Ohm",
+        "EarPlacement": "In Ear",
+        "about": [
+            "[DESIGN] Galaxy Buds3 Pro's iconic new in-ear blade design with LED lighting features to express yourself & impress those around you. The sleek design is also functional - simply swipe up/down on the blade to adjust volume, and pinch to play/pause/skip. We make it easy.",
+            "[COMFORT] Galaxy Buds 3 Pro is designed through 3D ear data analyses & simulations to deliver optimal comfort & fit. The soft rubber tips ensure that earbuds stay secured in your ear giving you ultimate comfort & listening experience",
+            "[Hi-Fi AUDIO] The sound on our Galaxy Buds3 Pro is crystal clear & easily matches studio quality. The 24bit/96kHz support & enhanced two-way speaker with dual amp work in harmony to delivery truly pristine & immersive audio experience tailored to your preferences",
+            "[PERFECT FIT] With Galaxy Buds3 Pro, say goodbye to constantly adjusting your earbuds to find that pitch-perfect sound experience. It intelligently tracks & analyses the sound inside & outside your ears to help apply the most suitable EQ & ANC algorithms real-time, allowing for an optimized ANC experience",
+            "[INTELLIGENT SOUND] Listen to high quality optimized sound in real-time with sounds tailored to your surroundings. Galaxy Buds3 Pro powered by Galaxy AI listens & responds to your environment by eliminating unwanted noises. And what's more, our Galaxy Buds3 Pro can intelligently help allow speech or even safety sirens go through to your ears selectively so you can stay immersed both inside & out"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51Af03TfaUL._SX569_.jpg",
+        "mainColor": "Silver",
+        "imgs": [],
+        "collectionsImgs": {
+            "Silver": [
+                "https://m.media-amazon.com/images/I/71ke2BEdIhL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71xB+tcn-ZL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71RES2HWRHL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71EpPf9ObQL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/81VobMFc96L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61ySa6Ty0RL._SX569_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/61fDBCned+L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61Qpcp9BJYL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71RES2HWRHL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71EpPf9ObQL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/81VobMFc96L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61ySa6Ty0RL._SX569_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890424,
+        "catergory": "Headphone",
+        "name": "Samsung TWS",
+        "Brand": "Samsung",
+        "ditails": "Samsung Galaxy Buds Core | Black | Powered by Galaxy AI | Active Noise Cancellation | Enriched Bass | 3 Mic Clear Sound | Tap Area | IP54 | 35hrs Battery",
+        "rating": 3.7,
+        "price": 4999,
+        "mrp": 9999,
+        "discount": 50,
+        "Style": "TWS",
+        "Form Factor": "In Ear",
+        "Impedance": "32 Ohm",
+        "EarPlacement": "In Ear",
+        "about": [
+            "Crystal clear calls with 3 mic setup in each earbud",
+            "Secure & comfortable fit with wingtips for comfortable & long lasting wear",
+            "Intuitive touch controls for seamless experience",
+            "Connects effortlessly with Galaxy devices & supports Samsung Find",
+            "IP54 Water & Dust Resistance"
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51Af03TfaUL._SX569_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/31V+mocj7CL._SY300_SX300_QL70_FMwebp_.jpg",
+                "https://m.media-amazon.com/images/I/61NnPCGffML._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61UhkOB8jXL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61rpuH3IAQL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/617nET0YOtL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71o30jo6nRL._SX569_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/51hZUuKeJHL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61NnPCGffML._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61UhkOB8jXL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61rpuH3IAQL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/617nET0YOtL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71o30jo6nRL._SX569_.jpg"
+            ]
+        }
+    }
+]

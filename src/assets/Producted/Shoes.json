@@ -1,0 +1,1337 @@
+[
+    {
+        "productNo": 1234567890301,
+        "catergory": "Shoe",
+        "gender": "Unisex",
+        "name": "Puma Shoe",
+        "Brand": "Puma",
+        "ditails": "Puma Ultimate Ease Walking Shoe",
+        "rating": 4,
+        "price": 1599,
+        "mrp": 2499,
+        "discount": 36,
+        "MaterialType": "Leather",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Sole": "materialRubber",
+        "Style": "Walking",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "about": [
+            "Designed for short to mid-distance runs, gym workouts, and everyday wear with versatile functionality.",
+            "Optimal Comfort with Low boot construction for enhanced flexibility & natural movement.",
+            "Durable rubber outsole offers reliable grip and traction, supporting stability during runs or workouts.Durable rubber outsole offers reliable grip and traction, supporting stability during runs or workouts.",
+            "Mesh overlay design with angular accents and classic PUMA logo for a modern, performance-ready look.",
+            "Breathable textile upper is easy to clean—just spot-wipe and air dry to retain freshness."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/51UsX66AY3L._SY675_.jpg",
+        "mainColor": "Black",
+        "imgs": [
+            "https://m.media-amazon.com/images/I/51UsX66AY3L._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/51KtVHjCOxL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/51YYbBDmdvL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/51HJeLWVcgL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/815da5qgiYL._SY695_.jpg",
+            "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+        ],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/51UsX66AY3L._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51KtVHjCOxL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51YYbBDmdvL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51HJeLWVcgL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/815da5qgiYL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/51AmkUuvfZL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/515NkXn3qSL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51ol-pSdBVL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51y8XWj3d0L._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/81JP0PKJPUL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+            ],
+            "castlerock": [
+                "https://m.media-amazon.com/images/I/61KkNKv8eCL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51OrXla3utL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51d-3AomSyL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61KH2M5BpNL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61KkNKv8eCL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890302,
+        "catergory": "Shoe",
+        "gender": "Unisex",
+        "name": "Puma Shoe",
+        "Brand": "Puma",
+        "ditails": "Puma Unisex-Adult Badminton Smash Sprint Indoor Shoe",
+        "rating": 3.4,
+        "price": 2249,
+        "mrp": 4999,
+        "discount": 55,
+        "MaterialType": " Rubber",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Sole": "Rubber",
+        "Style": "Indoor",
+        "shoeSize": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/61ka7U4MKwL._SY395_.jpg",
+        "mainColor": "Black",
+        "imgs": [
+            "https://m.media-amazon.com/images/I/61ka7U4MKwL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/51BzoTJlXKL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/512YChCqskL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/61ZBwJiQFmL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/61jku+-HtBL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+        ],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/61ka7U4MKwL._SY395_.jpg",
+                "https://m.media-amazon.com/images/I/51BzoTJlXKL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/512YChCqskL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61ZBwJiQFmL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61jku+-HtBL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/51Orb3IhRmL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61WXlBH5DzL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/41qRILmX9-L._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61LbavSLFTL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51Orb3IhRmL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/610CPHsCHyL._SY675_.jpg"
+            ],
+            "red": [
+                "https://m.media-amazon.com/images/I/511yckWvTxL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61OH0dd+y4L._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/519-XGZLtrL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61ha6A1ag3L._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51A3h8tfXwL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61DMtcFc7BL._SY675_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/51WsLwF2rnL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61gEz4W5h4L._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51SOWtdy1AL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61pP0EfGF1L._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51Ola24bEwL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61Xa-5Z26wL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/71EjpH0eKQL._SY675_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890303,
+        "catergory": "Shoe",
+        "gender": "Unisex",
+        "name": "Puma Shoe",
+        "Brand": "Puma",
+        "ditails": "Puma Unisex-Adult Court Curves Sneaker",
+        "rating": 4.1,
+        "price": 2499,
+        "mrp": 5499,
+        "discount": 55,
+        "MaterialType": " Synthetic",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Sneaker",
+        "shoeSize": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/41t8iVNdjdL._SY675_.jpg",
+        "mainColor": "White",
+        "imgs": [
+            "https://m.media-amazon.com/images/I/41t8iVNdjdL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/41j3SQIOBrL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/61fVCJ3sC+L._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/61mHtro8bfL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/51xHzIk0LuL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/41t8iVNdjdL._SY675_.jpg",
+            "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+        ],
+        "collectionsImgs": {
+            "White": [
+                "https://m.media-amazon.com/images/I/41t8iVNdjdL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/41j3SQIOBrL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61fVCJ3sC+L._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61mHtro8bfL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51xHzIk0LuL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/41t8iVNdjdL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/51tvwssOVYL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/613tgWPG0zL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51GhzxpgOdL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61L7Kk63PKL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61Y1VGYi-xL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61IwuBFL-7L._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+            ],
+            "White-Green": [
+                "https://m.media-amazon.com/images/I/41H8D+F13NL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/71NgUrPH1LL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/41RaO1aqJEL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61NJIzxvZhL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61Rgkg1bQgL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51TRSo8koCL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+            ],
+            "White-Black": [
+                "https://m.media-amazon.com/images/I/41s98MPr4TL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61IrRkN8FXL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/410QP9+4jCL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61aDclTeJZL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/618yudGqrZL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/61cs5PgDmSL._SY675_.jpg",
+                "https://m.media-amazon.com/images/I/51+6bP+lPEL._SY675_.jpg"
+            ]
+        }
+    },
+        {
+        "productNo": 1234567890304,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "SPARX Shoe",
+        "Brand": "SPARX",
+        "ditails": "SPARX Men Lace Up Running Shoes",
+        "rating": 4,
+        "price": 999,
+        "mrp": 1299,
+        "discount": 27,
+        "MaterialType": " Mesh",
+        "ClosureType": "Lace-Up",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Ethylene Vinyl Acetate",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/512eq5Eu8ZL._SY575_.jpg",
+        "mainColor": "Grey",
+        "imgs": [
+            "https://m.media-amazon.com/images/I/51kZk5WamYL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/61yn77DK-RL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/61Y2fCmxj7L._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/61y5eeAwH8L._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/51zhSUAisXL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/512eq5Eu8ZL._SY575_.jpg"
+        ],
+        "collectionsImgs": {
+            "Grey": [
+                "https://m.media-amazon.com/images/I/512eq5Eu8ZL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51kZk5WamYL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61yn77DK-RL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61Y2fCmxj7L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61y5eeAwH8L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51zhSUAisXL._SY575_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/616GKZO4q8L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71er0opPNBL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/712xQ8wCC2L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61tQz5BZN7L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61PR3Lt-hDL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71I5MftyUZL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890305,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "SPARX Shoe",
+        "Brand": "SPARX",
+        "ditails": "SPARX Mens Sm 648 Running Shoes",
+        "rating": 4.1,
+        "price": 849,
+        "mrp": 999,
+        "discount": 15,
+        "MaterialType": "Ethylene Vinyl Acetate",
+        "ClosureType": "Lace-Up",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running",
+        "SoleMaterial": "Ethylene Vinyl Acetate",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/71efYxtIltL._SY575_.jpg",
+        "mainColor": "Grey",
+        "imgs": [],
+        "collectionsImgs": {
+            "Grey":[
+                "https://m.media-amazon.com/images/I/71efYxtIltL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51CSAjFITyL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/818fQkFNJjL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/51n5eF7MxqL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/51tljpmwIoL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51Hd7lmY+yL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71jXdjZH9iL._SY575_.jpg"
+            ],
+            "Red":[
+                "https://m.media-amazon.com/images/I/714Mq7AACfL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61727X3nANL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61acnXOzbTL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61WV3j+mTSL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61RGwKrl1YL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71RQSwPgr4L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71Q1MMsvtbL._SY575_.jpg"
+            ],
+            "Blue":[
+                "https://m.media-amazon.com/images/I/61viVzgVwlL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51p4gqOW-gL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/81QjW+CKi3L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/51wF56qZaDL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/51TthlD-PEL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51VZ0tWPfvL._SY695_.jpg"
+            ]
+
+        }
+    },
+    {
+        "productNo": 1234567890306,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "SPARX Shoe",
+        "Brand": "SPARX",
+        "ditails": "SPARX Mens Sm 678 Running Shoe",
+        "rating": 4,
+        "price": 1299,
+        "mrp": 1799,
+        "discount": 30,
+        "MaterialType": "Mesh",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Sneaker",
+        "SoleMaterial": "Ethylene Vinyl Acetate",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "about": [
+            "Breathable – Synthetic mesh upper ensures optimal airflow, keeping your feet cool and fresh all day.",
+            "Featherlight Feel – Designed for effortless movement, these shoes offer a lightweight build without compromising on durability.",
+            "Superior Grip – The rubber outsole provides excellent traction, ensuring stability on various surface",
+            "All-Day Comfort– Engineered with cushioned insoles and ergonomic design for unmatched comfort and endurance."
+        ],
+        "mainImg": "https://m.media-amazon.com/images/I/61g7IGjcZ5L._SY695_.jpg",
+        "mainColor": "Grey",
+        "imgs": [
+            "https://m.media-amazon.com/images/I/61g7IGjcZ5L._SY695_.jpg",
+            "https://m.media-amazon.com/images/I/61DO+mbrqKL._SY695_.jpg",
+            "https://m.media-amazon.com/images/I/71heGbFBBwL._SY695_.jpg",
+            "https://m.media-amazon.com/images/I/61DdyjmOR6L._SY695_.jpg",
+            "https://m.media-amazon.com/images/I/61lx8XsdIyL._SY695_.jpg"
+        ],
+        "collectionsImgs": {
+            "Grey": [
+                "https://m.media-amazon.com/images/I/61g7IGjcZ5L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61DO+mbrqKL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71heGbFBBwL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61DdyjmOR6L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61lx8XsdIyL._SY695_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/61bHdlwWpuL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51OG771x-iL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61dD6iWMKGL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61d9E3tvnoL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61bHdlwWpuL._SY695_.jpg"
+            ],
+            "OffWhite": [
+                "https://m.media-amazon.com/images/I/51hTOwD4GjL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51EjqzuO95L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61umdpu+9xL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51L5tXkD22L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51y0lqS5dIL._SY695_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890307,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "adidas Shoe",
+        "Brand": "adidas",
+        "ditails": "adidas Men Jaysaw Reflective M Running Shoe",
+        "rating": 4,
+        "price": 1920,
+        "mrp": 4299,
+        "discount": 55,
+        "MaterialType": "Synthetic, Mesh",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/81C+JlWf5hL._SX575_.jpg",
+        "mainColor": "Blue",
+        "imgs": [],
+        "collectionsImgs": {
+            "Blue": [
+                "https://m.media-amazon.com/images/I/81C+JlWf5hL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/91gIxlWjw9L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/819+l38yoPL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81gXRB4gtoL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81NWNmv0eAL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81Odk8qy+uL._SX575_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/71H7mV68aML._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/618vB3ekN7L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71L98sRnhDL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/7195OQyz78L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71rOdsuutZL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71O7vn6BwpL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71mdWrtJGFL._SY575_.jpg"
+            ],
+            "Grey": [
+                "https://m.media-amazon.com/images/I/71UsplEAltL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81ZkwCeTF1L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71vrpaUttZL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71+u9VWayaL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/616w6-0Lg7L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81A1y13XexL._SX575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890308,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "adidas Shoe",
+        "Brand": "adidas",
+        "ditails": "adidas Men Adi-Shawt M Running Shoe",
+        "rating": 3.6,
+        "price": 2760,
+        "mrp": 4299,
+        "discount": 36,
+        "MaterialType": "Ethylene Vinyl Acetate",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/61+cSCmhefL._SY575_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Dark-Blue": [
+                "https://m.media-amazon.com/images/I/7124oadYOJL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/61r2vrfHYoL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61wIeUrJVFL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61RqSpo4hXL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61GcmrbGz1L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61PKyucSpiL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/713g4L0vMtL._SY575_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/61+cSCmhefL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51ZmV6sMXdL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51vbnVl3ESL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/6140vF3cPNL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/613za06kO4L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61-qs7VdA9L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61V2XXblgML._SY575_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/7124oadYOJL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81MJAdsS5nL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/717gxNuki6L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/8133rJ5NHlL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71VRv-APQIL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/61-a4rlIsOL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890309,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "adidas Shoe",
+        "Brand": "adidas",
+        "ditails": "adidas Men Duramo Speed M Running Shoe",
+        "rating": 4.5,
+        "price": 4499,
+        "mrp": 8999,
+        "discount": 50,
+        "MaterialType": "Synthetics",
+        "ClosureType": "Lace-Up",
+        "HeelType": "No Heel",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            9.5,
+            10,
+            10.5,
+            11,
+            12
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/51RomxqfOvL._SY575_.jpg",
+        "mainColor": "White-Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "White-Black": [
+                "https://m.media-amazon.com/images/I/51RomxqfOvL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71bvaMHahrL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/715-nn0gzoL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71YY0qcPJ9L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71yejL6oX1L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71LDwmRzDVL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71uYPboSBKL._SY575_.jpg"
+            ],
+            "Grey": [
+                "https://m.media-amazon.com/images/I/71IB49h6xiL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71T3nFEIw5L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71VRhotxqdL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71IPu9F-3iL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71lum1XKs+L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/91xfjEZqGRL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81XsBGAWgjL._SY575_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/711Z5rokU7L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71OYf1izjBL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71gBXJfJ6XL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71tnZkKdlkL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71hMsacyKrL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71Mv-3-8VPL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81eWZdj5XeL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890310,
+        "catergory": "Shoe",
+        "gender": "Women",
+        "name": "adidas Shoe",
+        "Brand": "adidas",
+        "ditails": "adidas Women Amalgo W Running Shoe",
+        "rating": 4,
+        "price": 2399,
+        "mrp": 4599,
+        "discount": 50,
+        "MaterialType": "Ethylene Vinyl Acetate, Rubbe",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            4,
+            5,
+            6,
+            8
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/81un2WJEPlL._SX575_.jpg",
+        "mainColor": "Pink",
+        "imgs": [],
+        "collectionsImgs": {
+            "Pink": [
+                "https://m.media-amazon.com/images/I/81un2WJEPlL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81rg3SMKybL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81gmE4IP87L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81MkRkXL3EL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71+9A3G5PzL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81r6eUUSv4L._SX575_.jpg"
+            ],
+            "Light-Pink": [
+                "https://m.media-amazon.com/images/I/41bM04RXg9L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/41bhdsPDw3L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/411kpvf+z4L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/41Le+kPKfYL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/41e0ddbg5yL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/4199HPrNBnL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51xNGe57TZL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890311,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "Nike Shoe",
+        "Brand": "Nike",
+        "ditails": "Nike Mens Nike Downshifter 13 Running Shoe",
+        "rating": 4,
+        "price": 4295,
+        "mrp": 4295,
+        "discount": 0,
+        "MaterialType": "Ethylene Vinyl Acetate, Rubbe",
+        "ClosureType": "Lace-Up",
+        "HeelType": "No Heel",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/71QXHLcLAGL._SX575_.jpg",
+        "mainColor": "White-Green",
+        "imgs": [],
+        "collectionsImgs": {
+            "White-Green": [
+                "https://m.media-amazon.com/images/I/71QXHLcLAGL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71OiSBcM5LL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71hPotqEw6L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71tVYa0XluL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71RVU0Ai-dL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71rCxwcnFYL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71GDEqTUEsL._SY575_.jpg"
+            ],
+            "Orange-Black": [
+                "https://m.media-amazon.com/images/I/41RdPxlMilL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/41I9Fkg0sWL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51nJyHqZ24L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/41Eds7dMxvL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/41kSZLL4UEL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/41znqyH-1eL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61OdMU+0XRL._SY575_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/81GeJRw7rlL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81T3-DnGtFL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/7161B4QtheL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/7100l3t0lhL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/719oxj4dZkL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/81mNicR8dKL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81h1wiVBQiL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890312,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "Nike Shoe",
+        "Brand": "Nike",
+        "ditails": "Nike Men Skating Shoe",
+        "rating": 4.5,
+        "price": 9799,
+        "mrp": 13999,
+        "discount": 30,
+        "MaterialType": "Synthetic",
+        "ClosureType": "Lace-Up",
+        "HeelType": "No Heel",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            6,
+            8,
+            9,
+            10,
+            11,
+            12.5
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/61Tspqw1NEL._SY575_.jpg",
+        "mainColor": "Black-White",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black-White": [
+                "https://m.media-amazon.com/images/I/61Tspqw1NEL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71pnp+ReYiL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61CDOAUsBnL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61oyToxglTL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81zCSbZWmgL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/612YDvYZ8fL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61eeBUUtDVL._SY575_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/81IesVJQX8L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81fXf9XL01L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71BQXE+pAxL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81jy-1pnz-L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/713Mb9nr5ZL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71cBHfJBAdL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71DlviMd2yL._SY695_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/81Uufgl2tNL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/817D3Fx9VdL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/815+ULebwCL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/715gnpFXiTL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71jDdG0uDFL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/81kSP0B6dLL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81JaG+TstrL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890312,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "Nike Shoe",
+        "Brand": "Nike",
+        "ditails": "Nike Men Skating Shoe",
+        "rating": 4.5,
+        "price": 9799,
+        "mrp": 13999,
+        "discount": 30,
+        "MaterialType": "Synthetic",
+        "ClosureType": "Lace-Up",
+        "HeelType": "No Heel",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            6,
+            8,
+            9,
+            10,
+            11,
+            12.5
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/61Tspqw1NEL._SY575_.jpg",
+        "mainColor": "Black-White",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black-White": [
+                "https://m.media-amazon.com/images/I/61Tspqw1NEL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71pnp+ReYiL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61CDOAUsBnL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61oyToxglTL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81zCSbZWmgL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/612YDvYZ8fL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61eeBUUtDVL._SY575_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/81IesVJQX8L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81fXf9XL01L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71BQXE+pAxL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81jy-1pnz-L._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/713Mb9nr5ZL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71cBHfJBAdL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71DlviMd2yL._SY695_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/81Uufgl2tNL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/817D3Fx9VdL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/815+ULebwCL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/715gnpFXiTL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71jDdG0uDFL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/81kSP0B6dLL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81JaG+TstrL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890313,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "Nike Shoe",
+        "Brand": "Nike",
+        "ditails": "Nike Men Lace Up Basketball Shoe",
+        "rating": 3.6,
+        "price": 5108,
+        "mrp": 7099,
+        "discount": 28,
+        "MaterialType": "Leather",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            10.5,
+            11,
+            12.5
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/71PDVrIyd5L._SY575_.jpg",
+        "mainColor": "White-Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "White-Black": [
+                "https://m.media-amazon.com/images/I/71PDVrIyd5L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71PDKt+oe7L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71iglKVayEL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71ipg52HoSL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/718OIVTvw0L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71CKTZ4RQmL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71jIqhmpeNL._SY575_.jpg"
+            ],
+            "Blue": [
+                "https://m.media-amazon.com/images/I/71veTu91LPL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/718wgE8PKdL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71YzSapXPPL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71-4WsbPZsL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/716UBbgBrYL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81Z9Gi5AqjL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81NYzQnYSPL._SX575_.jpg"
+            ],
+            "Red-White": [
+                "https://m.media-amazon.com/images/I/713Ya6v7RDL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/712hA+6PxhL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/7113P6vU8KL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71OUNfStmJL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/715qNQY7XHL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71w+3k3JnOL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71HErhs5MkL._SY575_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/61QgHZM9TdL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61X7yE2qMXL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61hRYrQnQjL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61TYk0byIsL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/614PBJK80iL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61pTEZmD-HL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71T+vRrpqTL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890314,
+        "catergory": "Shoe",
+        "gender": "Womens",
+        "name": "Nike Shoe",
+        "Brand": "Nike",
+        "ditails": "Nike Womens W Run Defy Running",
+        "rating": 4.2,
+        "price": 3599,
+        "mrp": 3999,
+        "discount": 10,
+        "MaterialType": "Mesh",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Running Shoes",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            7.5,
+            8,
+            8.5,
+            9,
+            9.5
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/61qhKqCqNkL._SY695_.jpg",
+        "mainColor": "White-Pink",
+        "imgs": [],
+        "collectionsImgs": {
+            "White-Pink": [
+                "https://m.media-amazon.com/images/I/61qhKqCqNkL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71cKSfhr7GL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/616j-0p4+IL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71OZW6fx6SL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/6147SCmZPyL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61nZmwSjApL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71iychPhKZL._SY695_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/71iNTzn1pZL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71ncwCN0iHL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/618JGi28tzL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/714RnMgZhdL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/618jbidhyjL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61cb7-0MJTL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71iNTzn1pZL._SY695_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890315,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "Bata Shoe",
+        "Brand": "Bata",
+        "ditails": "Bata Men's Slip-on Loafer",
+        "rating": 3.3,
+        "price": 467,
+        "mrp": 599,
+        "discount": 22,
+        "MaterialType": "Polyurethane",
+        "ClosureType": "Pull-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Loafers",
+        "SoleMaterial": "Polyvinyl Chloride",
+        "shoeSize": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/61L-cADIolS._SX575_.jpg",
+        "mainColor": "Blue",
+        "imgs": [],
+        "collectionsImgs": {
+            "Blue": [
+                "https://m.media-amazon.com/images/I/61L-cADIolS._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/51PXNUXmWaL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/512rdlPWZdL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51ohdr7Bh-L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61rc6tX4G5L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/610g3KVD3DL._SY695_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/51bFYp5vjVL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61iV0D84xjL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61LQ7E-aYIL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/515K1Ad1sSL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/6197ThdMviL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61fzY-UctfL._SY695_.jpg"
+            ],
+            "Brown": [
+                "https://m.media-amazon.com/images/I/61zRflRqKBS._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/516AGBkstpL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51ca1zDBU0L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51k68+ccToL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/611UoAJ+MdL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61GBZkoKkHL._SY695_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890316,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "Bata Shoe",
+        "Brand": "Bata",
+        "ditails": "Bata Men's Lace-up Formal Shoes",
+        "rating": 3.8,
+        "price": 1119,
+        "mrp": 1699,
+        "discount": 34,
+        "MaterialType": "Synthetic",
+        "ClosureType": "Lace-Up",
+        "HeelType": "No Heel",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Casual",
+        "SoleMaterial": "Polyvinyl Chloride",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/61L-cADIolS._SX575_.jpg",
+        "mainColor": "Brown",
+        "imgs": [],
+        "collectionsImgs": {
+            "Brown": [
+                "https://m.media-amazon.com/images/I/71RfulpPoZL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/41vwmUp4+IL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/415NytdzuQL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/41BJNHs-rFL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61vXl8Luv3L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51lN18BFncL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61fzY-UctfL._SY695_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/51yKy6k8eyL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51fhILEuRhL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51bryiY+8uL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61AqVvjYtgL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71GErtNOLfL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/613Np812kJL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890317,
+        "catergory": "Shoe",
+        "gender": "Women",
+        "name": "Bata Shoe",
+        "Brand": "Bata",
+        "ditails": "Bata Women's Lace-up Walking Shoe",
+        "rating": 3.7,
+        "price": 649,
+        "mrp": 999,
+        "discount": 35,
+        "MaterialType": "Synthetic",
+        "ClosureType": "Lace-Up",
+        "HeelType": "No Heel",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Sneaker",
+        "SoleMaterial": "Polyurethane",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/61ZypmqlprL._SY695_.jpg",
+        "mainColor": "NavyBlue",
+        "imgs": [],
+        "collectionsImgs": {
+            "NavyBlue": [
+                "https://m.media-amazon.com/images/I/61ZypmqlprL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/610IYBwGN5L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61h0sXVEuPL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61zqWxo0X5L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71dbZd-ve1L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/715j4sfOsqL._SX575_.jpg"
+            ],
+            "Pink": [
+                "https://m.media-amazon.com/images/I/610pFY2rHtL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61AvYF1Ub+L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61+r4QaDAmL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71hkHpGh46L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71F3gs5MBuL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61iMNMQNKmL._SY695_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890317,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "U.S. POLO ASSN Shoe",
+        "Brand": "U.S. POLO ASSN",
+        "ditails": "USPA Stefan Stylish Casual Sneaker Shoes for Man",
+        "rating": 4.4,
+        "price": 2199,
+        "mrp": 3999,
+        "discount": 45,
+        "MaterialType": "Polyurethane",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Sneaker",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/71Jqccq3+aL._SY575_.jpg",
+        "mainColor": "Tan",
+        "imgs": [],
+        "collectionsImgs": {
+            "Tan": [
+                "https://m.media-amazon.com/images/I/71Jqccq3+aL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81qAitg+APL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/7151W4B4lSL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71DOxCniS8L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71fWdgcAXqL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71QVXyIGX4L._SY575_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/71wmqafi53L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71O4cgLnLPL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71wR5isRC-L._SY575_.jpg",
+                "http://m.media-amazon.com/images/I/71BEsYMsfLL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81F-3qjOjjL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71jSuvqtwkL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890318,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "U.S. POLO ASSN Shoe",
+        "Brand": "U.S. POLO ASSN",
+        "ditails": "USPA|LUIS|Off White Stylish Casual Sneaker Shoes for Man",
+        "rating": 3.8,
+        "price": 2999,
+        "mrp": 4799,
+        "discount": 38,
+        "MaterialType": "Polyurethane",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Sneaker",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/71oe-Ay4wqL._SY575_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/71oe-Ay4wqL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81PXOLFRjnL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71IIVSO-whL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/714lYuy+UkL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81VuuioZjNL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61YPYg61xZL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81GGwc7m7KL._SY575_.jpg"
+            ],
+            "White": [
+                "https://m.media-amazon.com/images/I/71UCstYdFXL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/91Y6W-IODDL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71FuankPSaL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71b4lfbvRhL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81OQKt8fUWL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/616W9Le8U3L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71fvlc1ioNL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890319,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "U.S. POLO ASSN Shoe",
+        "Brand": "U.S. POLO ASSN",
+        "ditails": "USPA Bruce Black Stylish Casual Sneaker Shoes for Man",
+        "rating": 3.8,
+        "price": 3089,
+        "mrp": 3999,
+        "discount": 15,
+        "MaterialType": "Polyurethane",
+        "ClosureType": "Lace-Up",
+        "HeelType": "Flat",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Sneaker",
+        "SoleMaterial": "Rubber",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/61p13trRJBL._SY500_.jpg",
+        "mainColor": "White",
+        "imgs": [],
+        "collectionsImgs": {
+            "White": [
+                "https://m.media-amazon.com/images/I/61p13trRJBL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/71sDLXSSNWL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/61FYAOcUpUL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/61Zo7VfKyqL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/7152RWkfY-L._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/61r95jcoBYL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/71lFTEj0MHL._SY500_.jpg"
+            ],
+            "Black": [
+                "https://m.media-amazon.com/images/I/71D0dM2wcaL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/813TIRbadKL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/61xUX57TAQL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/71o8lbO7EIL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/81VduHkzNRL._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/61kvlO2+z8L._SY500_.jpg",
+                "https://m.media-amazon.com/images/I/71D0dM2wcaL._SY500_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890320,
+        "catergory": "Shoe",
+        "gender": "Men",
+        "name": "Skechers Shoe",
+        "Brand": "Skechers",
+        "ditails": "Skechers Men Summits Brisbane Sneakers",
+        "rating": 4.1,
+        "price": 2387,
+        "mrp": 4299,
+        "discount": 44,
+        "MaterialType": "Textile",
+        "ClosureType": "Lace-Up",
+        "HeelType": "No Heel",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Sneaker",
+        "SoleMaterial": "Ethylene Vinyl Acetate",
+        "shoeSize": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/81zlutgZlzL._SY575_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "Black": [
+                "https://m.media-amazon.com/images/I/81zlutgZlzL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71HT-HzaH8L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71i7SA1eeDL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/815JhxySH9L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81AiOUEOMjL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81bJqOWTu9L._SY575_.jpg"
+            ],
+            "LightGray": [
+                "https://m.media-amazon.com/images/I/81pR4dA+0HL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81Sboetep+L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81XA-0bQ7pL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81wmLPzBtWL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81D+Eb9hq+L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51srZ4SkkmL._SY575_.jpg"
+            ],
+            "NavyBlue": [
+                "https://m.media-amazon.com/images/I/71uXA38r0eL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/81tCp2-gmYL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71YNXkX29WL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/71ZjE3VVQeL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/61+FhwpQ2QL._SY575_.jpg"
+            ]
+        }
+    },
+    {
+        "productNo": 1234567890321,
+        "catergory": "Shoe",
+        "gender": "Women",
+        "name": "Skechers Shoe",
+        "Brand": "Skechers",
+        "ditails": "Skechers Women Summits Sneakers",
+        "rating": 4.3,
+        "price": 3199,
+        "mrp": 3999,
+        "discount": 20,
+        "MaterialType": "Suede",
+        "ClosureType": "Pull-On",
+        "HeelType": "No Heel",
+        "WaterResistanceLevel": "Not Water Resistant",
+        "Style": "Sneaker",
+        "SoleMaterial": "Ethylene Vinyl Acetate",
+        "shoeSize": [
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "about": [],
+        "mainImg": "https://m.media-amazon.com/images/I/81FdxrsFu8L._SY575_.jpg",
+        "mainColor": "Black",
+        "imgs": [],
+        "collectionsImgs": {
+            "NavyBlue": [
+                "https://m.media-amazon.com/images/I/81FdxrsFu8L._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71Z0NPL7FkL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71Hdit2G0NL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/71Hdit2G0NL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81G2G2XFXkL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81e+jIWICpL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/51qTHj-uynL._SX575_.jpg"
+            ],
+            "Grey":[
+                "https://m.media-amazon.com/images/I/81wMr6C9oNL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81CyZp2zBtL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/7139mnQN8yL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/81Vusl2-bgL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/8101E7i8dvL._SY575_.jpg",
+                "https://m.media-amazon.com/images/I/61WE+nIGluL._SX575_.jpg",
+                "https://m.media-amazon.com/images/I/51qTHj-uynL._SX575_.jpg"
+            ]
+        }
+    }
+]
