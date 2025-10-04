@@ -384,7 +384,7 @@ const SingleCart = () => {
         <>
             <Navbar filterDisplay={false} />
             <div className='paddingTop container d-sm-flex  my-sm-0 '>
-                <div className=" imgContainer col-sm-6 d-flex">
+                <div className="px-2 px-sm-0 imgContainer col-sm-6 d-flex">
                     <div className="seleteImgs d-flex gap-3 my-3 mt-sm-5">
                         {selectColorImg.map((img, i) => (
                             <div className='seleteImg' key={i}>
@@ -396,7 +396,7 @@ const SingleCart = () => {
                         <img src={selectColorImg[showMainImg]} alt={data.name} />
                     </div>
                 </div>
-                <div className="ditailsContainer px-1 px-sm-3 col-sm-6 py-sm-4">
+                <div className="ditailsContainer px-3 px-sm-3 col-sm-6 py-sm-4">
                     <h4 className='text-capitalize fw-bold ditailsTextColor fs-sm-4'>{data.selectDitails ? data.selectDitails : data.ditails}</h4>
 
                     <div className="priceAndBtn d-flex justify-content-between align-items-center">

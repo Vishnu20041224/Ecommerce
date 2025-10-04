@@ -29,7 +29,7 @@ const Productes = () => {
 
   return (
     <>
-      <div className='productBg' style={{ width: "99%" }}>
+      <div className='' style={{ width: "99%" }}>
 
         <div className="containe row align-items-center d-none d-md-flex">
 
