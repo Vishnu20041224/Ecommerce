@@ -63,6 +63,7 @@ const Navbar = ({ filterDisplay }) => {
                                             <img src={`${data.mainImg}`} alt={data.name} style={{ width: "30px", objectFit: "contain" }} />
                                             <span className='fs-6 py-sm-1 d-block d-md-none'>{(data.ditails.length >27 ?data.ditails.substring(0, 27) + "...":data.ditails)}</span>
                                             <span className='fs-6 py-sm-1 d-none d-md-block'>{(data.ditails.length >50 ?data.ditails.substring(0, 50) + "...":data.ditails)}</span>
+                                            {/* <span className='fs-6 py-sm-1 '>{data.ditails}</span> */}
                                         </li>
                                     </Link>
                                 ))}

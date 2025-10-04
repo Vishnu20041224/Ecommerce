@@ -253,14 +253,20 @@ li {
 }
 
 .searchUl li {
-  /* width: 100%; */
   background-color: whitesmoke;
   color: black;
+  /* width: 100%;
+  overflow: hidden; */
 }
 
 .searchUl li:hover {
   color: blue;
 }
+
+/* .searchUl li span{
+  width: 90%;
+  overflow: hidden;
+} */
 
 @media screen and (max-width:700px) {
   .navBarText {

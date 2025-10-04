@@ -1,0 +1,87 @@
+.custom-carousel {
+    position: relative;
+    width: 100%;
+    /* max-width: 1200px; */
+    margin: auto;
+    /* overflow: hidden; */
+}
+
+.carousel-slides {
+    display: flex;
+    /* transition: transform 3s ease-in-out; */
+      transition: transform 0.6s ease-in-out; /* smooth animation */
+      width: 100%;
+}
+
+.carousel-item {
+    min-width: 100%;
+    display: none;
+     flex-shrink: 0;
+}
+
+.carousel-item.active {
+    display: block;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    /* border-radius: 8px; */
+    box-shadow: none;
+    /* No shadow */
+}
+
+.prev,
+.next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+    font-size: 2rem;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+.dots {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.dot {
+    height: 12px;
+    width: 12px;
+    margin: 0 5px;
+    background: gray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.dot.active {
+    background: black;
+}
+
+@media screen and (max-width:550px) {
+    .dot {
+        height: 8px;
+        width: 8px;
+    }
+
+    .dots {
+        margin-top: 0px;
+    }
+
+}
