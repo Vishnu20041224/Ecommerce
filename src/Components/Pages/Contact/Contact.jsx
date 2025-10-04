@@ -5,7 +5,6 @@ import { IoMdSend } from "react-icons/io";
 import Navbar from "../../Navbar"
 import "./Contact.css"
 import axios from 'axios';
-import contactBg from "../../../assets/ContactBG/ContactBG-6.webp"
 import { MdLocationOn } from "react-icons/md";
 import { FaPhoneAlt } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
