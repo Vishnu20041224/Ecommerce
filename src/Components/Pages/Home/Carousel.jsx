@@ -19,7 +19,7 @@ const Carousel = ({ slides, interval = 3000 }) => {
 
   return (
     <div className="custom-carousel">
-      <button className="prev d-none d-sm-flex" onClick={prevSlide}>❮</button>
+      <button className="prev " onClick={prevSlide}>❮</button>
       
       <div className="carousel-slides">
         {slides.map((slide, i) => (
@@ -34,10 +34,10 @@ const Carousel = ({ slides, interval = 3000 }) => {
         ))}
       </div>
 
-      <button className="next d-none d-sm-flex" onClick={nextSlide}>❯</button>
+      <button className="next " onClick={nextSlide}>❯</button>
 
       {/* Dots */}
-      {/* <div className="dots d-block d-sm-none">
+      <div className="dots d-block d-sm-none">
         {slides.map((_, i) => (
           <span
             key={i}
@@ -45,7 +45,7 @@ const Carousel = ({ slides, interval = 3000 }) => {
             onClick={() => setCurrent(i)}
           />
         ))}
-      </div> */}
+      </div>
     </div>
   );
 };

@@ -16,6 +16,7 @@ import SmartWatch from "./Components/Pages/Watch/SmartWatch";
 import Tv from "./Components/Pages/Tv/Tv"
 import Shirt from "./Components/Pages/Shirt/Shirt";
 import Sport from "./Components/Pages/Sport/Sport";
+import NotFound from "./Components/Pages/NotFound/NotFound";
 
 function App() {
 
@@ -37,7 +38,7 @@ function App() {
         <Route element={<LikeList />} path="/likelist" />
         <Route element={<Contact />} path="/contact" />
         <Route element={<Shirt/>} path="/shirt" />
-
+        <Route element={<NotFound/>} path="*"/>
       </Routes>
     </>
   )

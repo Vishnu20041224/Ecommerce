@@ -9,14 +9,15 @@
 .carousel-slides {
     display: flex;
     /* transition: transform 3s ease-in-out; */
-      transition: transform 0.6s ease-in-out; /* smooth animation */
-      width: 100%;
+    transition: transform 0.6s ease-in-out;
+    /* smooth animation */
+    width: 100%;
 }
 
 .carousel-item {
     min-width: 100%;
     display: none;
-     flex-shrink: 0;
+    flex-shrink: 0;
 }
 
 .carousel-item.active {
@@ -40,11 +41,20 @@
     background: rgba(0, 0, 0, 0.5);
     border: none;
     color: white;
-    font-size: 2rem;
+    font-size: 1rem;
     padding: 5px 10px;
     cursor: pointer;
     border-radius: 50%;
     z-index: 1;
+}
+
+@media screen and (max-width:550px) {
+
+    .prev,
+    .next {
+        font-size: 10px;
+        padding: 3px 5px;
+    }
 }
 
 .prev {
@@ -58,6 +68,7 @@
 .dots {
     text-align: center;
     margin-top: 10px;
+    transform: translateY(-22px);
 }
 
 .dot {
@@ -76,8 +87,8 @@
 
 @media screen and (max-width:550px) {
     .dot {
-        height: 8px;
-        width: 8px;
+        height: 6px;
+        width: 6px;
     }
 
     .dots {

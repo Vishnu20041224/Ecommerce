@@ -20,7 +20,7 @@ import Footer from "../../Pages/Footer/Footer"
 // import {  } from "react-icons/fa";
 const SingleCart = () => {
 
-    let { searchLink, getFormattedAmount,urlId, setUrlId, deliveryData, ratingImg, singleCartId, addToCartArr, setAddToCartArr, wishListtArr, setWishListArr, addToCartFun, allProductsDatas, setAllProductsDatas, toggleWishList, calculateOffer } = useContext(EcommerceContext)
+    let { searchLink, getFormattedAmount, urlId, setUrlId, deliveryData, ratingImg, singleCartId, addToCartArr, setAddToCartArr, wishListtArr, setWishListArr, addToCartFun, allProductsDatas, setAllProductsDatas, toggleWishList, calculateOffer } = useContext(EcommerceContext)
 
     let [showMainImg, setShowMainimg] = useState(0)
 
@@ -47,6 +47,9 @@ const SingleCart = () => {
             setSingleCartData(foundData);
             setData(foundData);
         }
+
+        setIsWishListData(wishListtArr.some((item) => item.productNo === data.productNo))
+
         window.scrollTo(0, 0);
     }, [id, singleCartData]);
 
@@ -314,7 +317,12 @@ const SingleCart = () => {
     let [isWishListData, setIsWishListData] = useState(false)
     useEffect(() => {
         setIsWishListData(wishListtArr.some((item) => item.productNo === data.productNo))
+
     }, [wishListtArr])
+
+    useEffect(() => {
+        setIsWishListData(wishListtArr.some((item) => item.productNo === data.productNo))
+    }, [])
 
     // let [selectColor, setSelectColor] = useState(data.selectColor ? data.selectColor : data.mainColor);
     let [selectColor, setSelectColor] = useState(null);
@@ -406,9 +414,9 @@ const SingleCart = () => {
                                 <div className='m-0 p-0'>
                                     <p className='m-0'>
                                         {data.mrp !== data.price && data.mrp && <span className='fs-3 text-danger px-3'>({calculateOffer(data.selectMrp ? data.selectMrp : data.mrp, data.selectPrice ? data.selectPrice : data.price)}% off)</span>}
-                                        <span className='fs-2 fw-bold'>₹{data.selectPrice ? getFormattedAmount(data.selectPrice):getFormattedAmount(data.price)}</span>
+                                        <span className='fs-2 fw-bold'>₹{data.selectPrice ? getFormattedAmount(data.selectPrice) : getFormattedAmount(data.price)}</span>
                                     </p>
-                                    {data.mrp !== data.price && data.mrp && <p className='mrpSingleCart fs-6 m-0 px-4 text-decoration-line-through'>M.R.P ₹{ data.selectMrp ? getFormattedAmount(data.selectMrp) : getFormattedAmount(data.mrp)}</p>}
+                                    {data.mrp !== data.price && data.mrp && <p className='mrpSingleCart fs-6 m-0 px-4 text-decoration-line-through'>M.R.P ₹{data.selectMrp ? getFormattedAmount(data.selectMrp) : getFormattedAmount(data.mrp)}</p>}
                                 </div>
                             </div>
                         </div>
@@ -771,8 +779,8 @@ const SingleCart = () => {
                         </>}
                 </div>
             </div>
-            <Notifiction/>
-            <Footer/>
+            <Notifiction />
+            <Footer />
         </>
 
     )

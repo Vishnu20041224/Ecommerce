@@ -8,7 +8,7 @@ const Empty = ({img,text}) => {
                     <img className='imgWidthAndHeight' src={img} alt={img} />
                 </div>
                 <div>
-                    <h1 className='fw-bolder'>{text}</h1>
+                    <h1 style={{maxWidth:"800px"}} className='fw-bolder text-center px-3'>{text}</h1>
                 </div>
             </div>
         </div>
