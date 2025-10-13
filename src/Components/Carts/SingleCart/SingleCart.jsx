@@ -750,7 +750,7 @@ const SingleCart = () => {
                         </>}
                 </div>
 
-                <div className='bg-white px-4 pt-3 my-3 position-relative'>
+                <div className='bg-white px-4 pt-3 my-sm-3 my-1  position-relative'>
                     <div className=' d-flex my-scroll-container ' ref={scrollRefrelativeBrand}>
                         {brandItems.map((data, i) => <Cart data={data} key={i} />)}
                     </div>
@@ -762,10 +762,8 @@ const SingleCart = () => {
                         </>}
                 </div>
 
-                <div className='bg-white px-4 pt-3 position-relative'>
-                    <Link to={`/${data.catergory}`}>
-                        <h4 className='  px-sm-3 text-dark fs-sm-4 fst-italic fw-bolder mb-0'>{data.catergory}</h4>
-                    </Link>
+                <div className='bg-white px-4 pt-3 my-sm-3 my-1  position-relative'>
+                   
                     <div className=' d-flex my-scroll-container ' ref={scrollRefrelativeCatergory}>
                         {catergoryItem.map((data, i) => <Cart2 data={data} key={i} />)}
                     </div>
